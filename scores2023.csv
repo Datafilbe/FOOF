@@ -1,0 +1,1881 @@
+raceday,locality,raceName,deelnemer,driver,constructor,driverpunten,turbopunten,inhaalpunten,totaalpunten,positie,afwijking_positie,afwijking_positie_real,turbodriver,inhaalkoning
+1,Sakhir,Bahrain Grand Prix,Eva,Zhou,Alfa Romeo,8,0,0,8,16,2,-2,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Eva,Perez,Red Bull,9,9,0,18,2,1,1,TRUE,FALSE
+1,Sakhir,Bahrain Grand Prix,Eva,Ocon,Alpine,1,0,0,1,18,9,-9,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Eva,Hulkenberg,Haas,8,0,0,8,15,2,-2,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Eva,Gasly,Alpine,0,0,7,7,9,NA,NA,FALSE,TRUE
+1,Sakhir,Bahrain Grand Prix,Thibaut,Zhou,Alfa Romeo,6,0,0,6,16,4,-4,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Thibaut,Perez,Red Bull,9,9,0,18,2,1,1,TRUE,FALSE
+1,Sakhir,Bahrain Grand Prix,Thibaut,Ocon,Alpine,0,0,0,0,18,11,-11,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Thibaut,Hulkenberg,Haas,11,0,0,11,15,0,0,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Thibaut,Bottas,Alfa Romeo,0,0,4,4,8,NA,NA,FALSE,TRUE
+1,Sakhir,Bahrain Grand Prix,Robbert,Zhou,Alfa Romeo,4,0,0,4,16,6,-6,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Robbert,Perez,Red Bull,9,9,0,18,2,1,1,TRUE,FALSE
+1,Sakhir,Bahrain Grand Prix,Robbert,Ocon,Alpine,1,0,0,1,18,9,-9,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Robbert,Hulkenberg,Haas,9,0,0,9,15,1,-1,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Robbert,Magnussen,Haas,0,0,0,0,13,NA,NA,FALSE,TRUE
+1,Sakhir,Bahrain Grand Prix,Bram,Zhou,Alfa Romeo,7,0,0,7,16,3,-3,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Bram,Perez,Red Bull,9,9,0,18,2,1,1,TRUE,FALSE
+1,Sakhir,Bahrain Grand Prix,Bram,Ocon,Alpine,0,0,0,0,18,11,-11,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Bram,Hulkenberg,Haas,11,0,0,11,15,0,0,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Bram,Alonso,Aston Martin,0,0,0,0,3,NA,NA,FALSE,TRUE
+1,Sakhir,Bahrain Grand Prix,Jonas,Zhou,Alfa Romeo,1,0,0,1,16,9,-9,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Jonas,Perez,Red Bull,7,0,0,7,2,3,3,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Jonas,Ocon,Alpine,4,4,0,8,18,6,-6,TRUE,FALSE
+1,Sakhir,Bahrain Grand Prix,Jonas,Hulkenberg,Haas,9,0,0,9,15,1,1,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Jonas,de Vries,AlphaTauri,0,0,5,5,14,NA,NA,FALSE,TRUE
+1,Sakhir,Bahrain Grand Prix,Dylan,Zhou,Alfa Romeo,9,0,0,9,16,1,-1,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Dylan,Perez,Red Bull,9,9,0,18,2,1,1,TRUE,FALSE
+1,Sakhir,Bahrain Grand Prix,Dylan,Ocon,Alpine,5,0,0,5,18,5,-5,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Dylan,Hulkenberg,Haas,9,0,0,9,15,1,1,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Dylan,Bottas,Alfa Romeo,0,0,4,4,8,NA,NA,FALSE,TRUE
+1,Sakhir,Bahrain Grand Prix,Thijs,Zhou,Alfa Romeo,1,0,0,1,16,9,-9,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Thijs,Perez,Red Bull,9,9,0,18,2,1,1,TRUE,FALSE
+1,Sakhir,Bahrain Grand Prix,Thijs,Ocon,Alpine,2,0,0,2,18,8,-8,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Thijs,Hulkenberg,Haas,8,0,0,8,15,2,-2,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Thijs,Russell,Mercedes,0,0,0,0,7,NA,NA,FALSE,TRUE
+1,Sakhir,Bahrain Grand Prix,Mattijs,Zhou,Alfa Romeo,11,0,0,11,16,0,0,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Mattijs,Perez,Red Bull,8,8,0,16,2,2,2,TRUE,FALSE
+1,Sakhir,Bahrain Grand Prix,Mattijs,Ocon,Alpine,0,0,0,0,18,10,-10,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Mattijs,Hulkenberg,Haas,7,0,0,7,15,3,3,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Mattijs,Bottas,Alfa Romeo,0,0,4,4,8,NA,NA,FALSE,TRUE
+1,Sakhir,Bahrain Grand Prix,Notus,Zhou,Alfa Romeo,11,0,0,11,16,0,0,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Notus,Perez,Red Bull,8,8,0,16,2,2,2,TRUE,FALSE
+1,Sakhir,Bahrain Grand Prix,Notus,Ocon,Alpine,2,0,0,2,18,8,-8,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Notus,Hulkenberg,Haas,9,0,0,9,15,1,-1,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Notus,Alonso,Aston Martin,0,0,0,0,3,NA,NA,FALSE,TRUE
+1,Sakhir,Bahrain Grand Prix,Filip,Zhou,Alfa Romeo,6,0,0,6,16,4,-4,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Filip,Perez,Red Bull,11,11,0,22,2,0,0,TRUE,FALSE
+1,Sakhir,Bahrain Grand Prix,Filip,Ocon,Alpine,3,0,0,3,18,7,-7,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Filip,Hulkenberg,Haas,3,0,0,3,15,7,-7,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Filip,Hamilton,Mercedes,0,0,0,0,5,NA,NA,FALSE,TRUE
+1,Sakhir,Bahrain Grand Prix,Ines,Zhou,Alfa Romeo,6,0,0,6,16,4,-4,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Ines,Perez,Red Bull,9,9,0,18,2,1,1,TRUE,FALSE
+1,Sakhir,Bahrain Grand Prix,Ines,Ocon,Alpine,2,0,0,2,18,8,-8,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Ines,Hulkenberg,Haas,9,0,0,9,15,1,-1,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Ines,Stroll,Aston Martin,0,0,0,0,6,NA,NA,FALSE,TRUE
+1,Sakhir,Bahrain Grand Prix,Matthias,Zhou,Alfa Romeo,8,0,0,8,16,2,-2,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Matthias,Perez,Red Bull,9,9,0,18,2,1,1,TRUE,FALSE
+1,Sakhir,Bahrain Grand Prix,Matthias,Ocon,Alpine,5,0,0,5,18,5,-5,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Matthias,Hulkenberg,Haas,5,0,0,5,15,5,-5,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Matthias,Sainz,Ferrari,0,0,0,0,4,NA,NA,FALSE,TRUE
+1,Sakhir,Bahrain Grand Prix,Illias,Zhou,Alfa Romeo,3,0,0,3,16,7,-7,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Illias,Perez,Red Bull,9,9,0,18,2,1,1,TRUE,FALSE
+1,Sakhir,Bahrain Grand Prix,Illias,Ocon,Alpine,8,0,0,8,18,2,-2,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Illias,Hulkenberg,Haas,11,0,0,11,15,0,0,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Illias,Bottas,Alfa Romeo,0,0,4,4,8,NA,NA,FALSE,TRUE
+1,Sakhir,Bahrain Grand Prix,Margot,Zhou,Alfa Romeo,6,0,0,6,16,4,-4,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Margot,Perez,Red Bull,8,8,0,16,2,2,2,TRUE,FALSE
+1,Sakhir,Bahrain Grand Prix,Margot,Ocon,Alpine,8,0,0,8,18,2,-2,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Margot,Hulkenberg,Haas,8,0,0,8,15,2,-2,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Margot,Alonso,Aston Martin,0,0,0,0,3,NA,NA,FALSE,TRUE
+1,Sakhir,Bahrain Grand Prix,Bart,Zhou,Alfa Romeo,8,0,0,8,16,2,-2,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Bart,Perez,Red Bull,9,9,0,18,2,1,1,TRUE,FALSE
+1,Sakhir,Bahrain Grand Prix,Bart,Ocon,Alpine,2,0,0,2,18,8,-8,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Bart,Hulkenberg,Haas,7,0,0,7,15,3,-3,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Bart,Bottas,Alfa Romeo,0,0,4,4,8,NA,NA,FALSE,TRUE
+1,Sakhir,Bahrain Grand Prix,Ester,Zhou,Alfa Romeo,4,0,0,4,16,6,-6,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Ester,Perez,Red Bull,9,9,0,18,2,1,1,TRUE,FALSE
+1,Sakhir,Bahrain Grand Prix,Ester,Ocon,Alpine,3,0,0,3,18,7,-7,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Ester,Hulkenberg,Haas,9,0,0,9,15,1,-1,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Ester,Stroll,Aston Martin,0,0,0,0,6,NA,NA,FALSE,TRUE
+1,Sakhir,Bahrain Grand Prix,Esmee,Zhou,Alfa Romeo,6,0,0,6,16,4,-4,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Esmee,Perez,Red Bull,7,0,0,7,2,3,3,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Esmee,Ocon,Alpine,1,1,0,2,18,9,-9,TRUE,FALSE
+1,Sakhir,Bahrain Grand Prix,Esmee,Hulkenberg,Haas,9,0,0,9,15,1,-1,FALSE,FALSE
+1,Sakhir,Bahrain Grand Prix,Esmee,Alonso,Aston Martin,0,0,0,0,3,NA,NA,FALSE,TRUE
+2,Jeddah,Saudi Arabian Grand Prix,Thibaut,Hamilton,Mercedes,9,9,0,18,5,1,1,TRUE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Thibaut,Stroll,Aston Martin,0,0,0,0,20,12,-12,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Thibaut,Leclerc,Ferrari,5,0,0,5,7,5,-5,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Thibaut,Norris,McLaren,8,0,0,8,17,2,-2,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Thibaut,Bottas,Alfa Romeo,0,0,0,0,18,NA,NA,FALSE,TRUE
+2,Jeddah,Saudi Arabian Grand Prix,Dylan,Hamilton,Mercedes,11,11,0,22,5,0,0,TRUE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Dylan,Stroll,Aston Martin,0,0,0,0,20,13,-13,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Dylan,Leclerc,Ferrari,7,0,0,7,7,3,-3,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Dylan,Norris,McLaren,5,0,0,5,17,5,-5,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Dylan,Leclerc,Ferrari,0,0,6,6,7,NA,NA,FALSE,TRUE
+2,Jeddah,Saudi Arabian Grand Prix,Illias,Hamilton,Mercedes,11,0,0,11,5,0,0,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Illias,Stroll,Aston Martin,0,0,0,0,20,11,-11,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Illias,Leclerc,Ferrari,6,6,0,12,7,4,-4,TRUE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Illias,Norris,McLaren,6,0,0,6,17,4,-4,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Illias,Bottas,Alfa Romeo,0,0,0,0,18,NA,NA,FALSE,TRUE
+2,Jeddah,Saudi Arabian Grand Prix,Thijs,Hamilton,Mercedes,11,11,0,22,5,0,0,TRUE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Thijs,Stroll,Aston Martin,0,0,0,0,20,14,-14,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Thijs,Leclerc,Ferrari,8,0,0,8,7,2,2,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Thijs,Norris,McLaren,4,0,0,4,17,6,-6,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Thijs,Leclerc,Ferrari,0,0,6,6,7,NA,NA,FALSE,TRUE
+2,Jeddah,Saudi Arabian Grand Prix,Margot,Hamilton,Mercedes,9,0,0,9,5,1,-1,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Margot,Stroll,Aston Martin,0,0,0,0,20,13,-13,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Margot,Leclerc,Ferrari,6,6,0,12,7,4,-4,TRUE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Margot,Norris,McLaren,8,0,0,8,17,2,-2,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Margot,Albon,Williams,0,0,0,0,19,NA,NA,FALSE,TRUE
+2,Jeddah,Saudi Arabian Grand Prix,Jonas,Hamilton,Mercedes,3,0,0,3,5,7,7,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Jonas,Stroll,Aston Martin,0,0,0,0,20,16,-16,TRUE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Jonas,Leclerc,Ferrari,9,0,0,9,7,1,-1,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Jonas,Norris,McLaren,4,0,0,4,17,6,-6,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Jonas,Leclerc,Ferrari,0,0,6,6,7,NA,NA,FALSE,TRUE
+2,Jeddah,Saudi Arabian Grand Prix,Robbert,Hamilton,Mercedes,11,11,0,22,5,0,0,TRUE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Robbert,Stroll,Aston Martin,0,0,0,0,20,14,-14,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Robbert,Leclerc,Ferrari,6,0,0,6,7,4,-4,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Robbert,Norris,McLaren,11,0,0,11,17,0,0,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Robbert,Ocon,Alpine,0,0,0,0,8,NA,NA,FALSE,TRUE
+2,Jeddah,Saudi Arabian Grand Prix,Matthias,Hamilton,Mercedes,9,9,0,18,5,1,1,TRUE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Matthias,Stroll,Aston Martin,0,0,0,0,20,13,-13,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Matthias,Leclerc,Ferrari,8,0,0,8,7,2,-2,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Matthias,Norris,McLaren,9,0,0,9,17,1,-1,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Matthias,Leclerc,Ferrari,0,0,6,6,7,NA,NA,FALSE,TRUE
+2,Jeddah,Saudi Arabian Grand Prix,Ines,Hamilton,Mercedes,11,11,0,22,5,0,0,TRUE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Ines,Stroll,Aston Martin,0,0,0,0,20,13,-13,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Ines,Leclerc,Ferrari,8,0,0,8,7,2,-2,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Ines,Norris,McLaren,11,0,0,11,17,0,0,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Ines,Leclerc,Ferrari,0,0,6,6,7,NA,NA,FALSE,TRUE
+2,Jeddah,Saudi Arabian Grand Prix,Bram,Hamilton,Mercedes,9,0,0,9,5,1,1,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Bram,Stroll,Aston Martin,0,0,0,0,20,11,-11,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Bram,Leclerc,Ferrari,7,0,0,7,7,3,-3,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Bram,Norris,McLaren,7,7,0,14,17,3,-3,TRUE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Bram,Albon,Williams,0,0,0,0,19,NA,NA,FALSE,TRUE
+2,Jeddah,Saudi Arabian Grand Prix,Notus,Hamilton,Mercedes,11,11,0,22,5,0,0,TRUE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Notus,Stroll,Aston Martin,0,0,0,0,20,13,-13,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Notus,Leclerc,Ferrari,7,0,0,7,7,3,-3,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Notus,Norris,McLaren,4,0,0,4,17,6,-6,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Notus,Bottas,Alfa Romeo,0,0,0,0,18,NA,NA,FALSE,TRUE
+2,Jeddah,Saudi Arabian Grand Prix,Bart,Hamilton,Mercedes,9,9,0,18,5,1,-1,TRUE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Bart,Stroll,Aston Martin,0,0,0,0,20,14,-14,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Bart,Leclerc,Ferrari,8,0,0,8,7,2,-2,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Bart,Norris,McLaren,2,0,0,2,17,8,-8,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Bart,Leclerc,Ferrari,0,0,6,6,7,NA,NA,FALSE,TRUE
+2,Jeddah,Saudi Arabian Grand Prix,Eva,Hamilton,Mercedes,11,0,0,11,5,0,0,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Eva,Stroll,Aston Martin,0,0,0,0,20,14,-14,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Eva,Leclerc,Ferrari,8,0,0,8,7,2,2,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Eva,Norris,McLaren,8,8,0,16,17,2,-2,TRUE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Eva,Leclerc,Ferrari,0,0,6,6,7,NA,NA,FALSE,TRUE
+2,Jeddah,Saudi Arabian Grand Prix,Ester,Hamilton,Mercedes,9,9,0,18,5,1,-1,TRUE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Ester,Stroll,Aston Martin,0,0,0,0,20,15,-15,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Ester,Leclerc,Ferrari,9,0,0,9,7,1,-1,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Ester,Norris,McLaren,4,0,0,4,17,6,-6,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Ester,Leclerc,Ferrari,0,0,6,6,7,NA,NA,FALSE,TRUE
+2,Jeddah,Saudi Arabian Grand Prix,Filip,Hamilton,Mercedes,9,9,0,18,5,1,1,TRUE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Filip,Stroll,Aston Martin,0,0,0,0,20,13,-13,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Filip,Leclerc,Ferrari,8,0,0,8,7,2,-2,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Filip,Norris,McLaren,5,0,0,5,17,5,-5,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Filip,Leclerc,Ferrari,0,0,6,6,7,NA,NA,FALSE,TRUE
+2,Jeddah,Saudi Arabian Grand Prix,Mattijs,Hamilton,Mercedes,11,0,0,11,5,0,0,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Mattijs,Stroll,Aston Martin,0,0,0,0,20,12,-12,TRUE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Mattijs,Leclerc,Ferrari,11,0,0,11,7,0,0,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Mattijs,Norris,McLaren,5,0,0,5,17,5,-5,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Mattijs,Leclerc,Ferrari,0,0,6,6,7,NA,NA,FALSE,TRUE
+2,Jeddah,Saudi Arabian Grand Prix,Esmee,Hamilton,Mercedes,9,0,0,9,5,1,1,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Esmee,Stroll,Aston Martin,3,0,0,3,20,7,-7,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Esmee,Leclerc,Ferrari,5,5,0,10,7,5,-5,TRUE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Esmee,Norris,McLaren,1,0,0,1,17,9,-9,FALSE,FALSE
+2,Jeddah,Saudi Arabian Grand Prix,Esmee,Leclerc,Ferrari,0,0,6,6,7,NA,NA,TRUE,TRUE
+3,Melbourne,Australian Grand Prix,Bram,Sainz,Ferrari,4,0,0,4,12,6,-6,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Bram,Bottas,Alfa Romeo,6,0,0,6,11,4,4,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Bram,Russell,Mercedes,0,0,0,0,18,13,-13,TRUE,FALSE
+3,Melbourne,Australian Grand Prix,Bram,Sargeant,Williams,7,0,0,7,16,3,-3,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Bram,Verstappen,Red Bull,0,0,0,0,1,NA,NA,FALSE,TRUE
+3,Melbourne,Australian Grand Prix,Robbert,Sainz,Ferrari,2,0,0,2,12,8,-8,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Robbert,Bottas,Alfa Romeo,3,0,0,3,11,7,7,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Robbert,Russell,Mercedes,0,0,0,0,18,12,-12,TRUE,FALSE
+3,Melbourne,Australian Grand Prix,Robbert,Sargeant,Williams,9,0,0,9,16,1,-1,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Robbert,Magnussen,Haas,0,0,0,0,17,NA,NA,FALSE,TRUE
+3,Melbourne,Australian Grand Prix,Jonas,Sainz,Ferrari,5,0,0,5,12,5,-5,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Jonas,Bottas,Alfa Romeo,6,0,0,6,11,4,4,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Jonas,Russell,Mercedes,0,0,0,0,18,12,-12,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Jonas,Sargeant,Williams,8,8,0,16,16,2,2,TRUE,FALSE
+3,Melbourne,Australian Grand Prix,Jonas,Hulkenberg,Haas,0,0,0,0,7,NA,NA,FALSE,TRUE
+3,Melbourne,Australian Grand Prix,Eva,Sainz,Ferrari,2,0,0,2,12,8,-8,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Eva,Bottas,Alfa Romeo,7,0,0,7,11,3,-3,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Eva,Russell,Mercedes,0,0,0,0,18,12,-12,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Eva,Sargeant,Williams,7,7,0,14,16,3,3,TRUE,FALSE
+3,Melbourne,Australian Grand Prix,Eva,Stroll,Aston Martin,0,0,0,0,4,NA,NA,FALSE,TRUE
+3,Melbourne,Australian Grand Prix,Thibaut,Sainz,Ferrari,4,4,0,8,12,6,-6,TRUE,FALSE
+3,Melbourne,Australian Grand Prix,Thibaut,Bottas,Alfa Romeo,8,0,0,8,11,2,2,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Thibaut,Russell,Mercedes,0,0,0,0,18,11,-11,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Thibaut,Sargeant,Williams,9,0,0,9,16,1,-1,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Thibaut,de Vries,AlphaTauri,0,0,0,0,15,NA,NA,FALSE,TRUE
+3,Melbourne,Australian Grand Prix,Thijs,Sainz,Ferrari,3,3,0,6,12,7,-7,TRUE,FALSE
+3,Melbourne,Australian Grand Prix,Thijs,Bottas,Alfa Romeo,8,0,0,8,11,2,2,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Thijs,Russell,Mercedes,0,0,0,0,18,12,-12,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Thijs,Sargeant,Williams,9,0,0,9,16,1,1,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Thijs,Stroll,Aston Martin,0,0,0,0,4,NA,NA,FALSE,TRUE
+3,Melbourne,Australian Grand Prix,Matthias,Sainz,Ferrari,4,0,0,4,12,6,-6,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Matthias,Bottas,Alfa Romeo,11,0,0,11,11,0,0,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Matthias,Russell,Mercedes,0,0,0,0,18,11,-11,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Matthias,Sargeant,Williams,11,11,0,22,16,0,0,TRUE,FALSE
+3,Melbourne,Australian Grand Prix,Matthias,Stroll,Aston Martin,0,0,0,0,4,NA,NA,FALSE,TRUE
+3,Melbourne,Australian Grand Prix,Ines,Sainz,Ferrari,3,3,0,6,12,7,-7,TRUE,FALSE
+3,Melbourne,Australian Grand Prix,Ines,Bottas,Alfa Romeo,9,0,0,9,11,1,1,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Ines,Russell,Mercedes,0,0,0,0,18,12,-12,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Ines,Sargeant,Williams,9,0,0,9,16,1,-1,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Ines,Stroll,Aston Martin,0,0,0,0,4,NA,NA,FALSE,TRUE
+3,Melbourne,Australian Grand Prix,Bart,Sainz,Ferrari,4,4,0,8,12,6,-6,TRUE,FALSE
+3,Melbourne,Australian Grand Prix,Bart,Bottas,Alfa Romeo,9,0,0,9,11,1,1,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Bart,Russell,Mercedes,0,0,0,0,18,14,-14,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Bart,Sargeant,Williams,9,0,0,9,16,1,1,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Bart,Bottas,Alfa Romeo,0,0,6,6,11,NA,NA,FALSE,TRUE
+3,Melbourne,Australian Grand Prix,Filip,Sainz,Ferrari,4,0,0,4,12,6,-6,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Filip,Bottas,Alfa Romeo,11,0,0,11,11,0,0,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Filip,Russell,Mercedes,0,0,0,0,18,13,-13,TRUE,FALSE
+3,Melbourne,Australian Grand Prix,Filip,Sargeant,Williams,9,0,0,9,16,1,-1,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Filip,de Vries,AlphaTauri,0,0,0,0,15,NA,NA,FALSE,TRUE
+3,Melbourne,Australian Grand Prix,Mattijs,Sainz,Ferrari,2,0,0,2,12,8,-8,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Mattijs,Bottas,Alfa Romeo,7,0,0,7,11,3,-3,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Mattijs,Russell,Mercedes,0,0,0,0,18,13,-13,TRUE,FALSE
+3,Melbourne,Australian Grand Prix,Mattijs,Sargeant,Williams,11,0,0,11,16,0,0,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Mattijs,Stroll,Aston Martin,0,0,0,0,4,NA,NA,FALSE,TRUE
+3,Melbourne,Australian Grand Prix,Notus,Sainz,Ferrari,4,4,0,8,12,6,-6,TRUE,FALSE
+3,Melbourne,Australian Grand Prix,Notus,Bottas,Alfa Romeo,11,0,0,11,11,0,0,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Notus,Russell,Mercedes,0,0,0,0,18,13,-13,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Notus,Sargeant,Williams,7,0,0,7,16,3,3,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Notus,Zhou,Alfa Romeo,0,0,4,4,9,NA,NA,FALSE,TRUE
+3,Melbourne,Australian Grand Prix,Esmee,Sainz,Ferrari,4,0,0,4,12,6,-6,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Esmee,Bottas,Alfa Romeo,8,0,0,8,11,2,2,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Esmee,Russell,Mercedes,0,0,0,0,18,13,-13,TRUE,FALSE
+3,Melbourne,Australian Grand Prix,Esmee,Sargeant,Williams,8,0,0,8,16,2,2,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Esmee,Stroll,Aston Martin,0,0,0,0,4,NA,NA,FALSE,TRUE
+3,Melbourne,Australian Grand Prix,Ester,Sainz,Ferrari,2,2,0,4,12,8,-8,TRUE,FALSE
+3,Melbourne,Australian Grand Prix,Ester,Bottas,Alfa Romeo,9,0,0,9,11,1,1,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Ester,Russell,Mercedes,0,0,0,0,18,12,-12,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Ester,Sargeant,Williams,9,0,0,9,16,1,-1,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Ester,Bottas,Alfa Romeo,0,0,6,6,11,NA,NA,FALSE,TRUE
+3,Melbourne,Australian Grand Prix,Illias,Sainz,Ferrari,4,4,0,8,12,6,-6,TRUE,FALSE
+3,Melbourne,Australian Grand Prix,Illias,Bottas,Alfa Romeo,11,0,0,11,11,0,0,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Illias,Russell,Mercedes,0,0,0,0,18,14,-14,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Illias,Sargeant,Williams,9,0,0,9,16,1,-1,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Illias,Gasly,Alpine,0,0,0,0,13,NA,NA,FALSE,TRUE
+3,Melbourne,Australian Grand Prix,Dylan,Sainz,Ferrari,4,0,0,4,12,6,-6,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Dylan,Bottas,Alfa Romeo,6,0,0,6,11,4,4,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Dylan,Russell,Mercedes,0,0,0,0,18,14,-14,TRUE,FALSE
+3,Melbourne,Australian Grand Prix,Dylan,Sargeant,Williams,9,0,0,9,16,1,1,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Dylan,Tsunoda,AlphaTauri,0,0,0,0,10,NA,NA,FALSE,TRUE
+3,Melbourne,Australian Grand Prix,Margot,Sainz,Ferrari,2,0,0,2,12,8,-8,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Margot,Bottas,Alfa Romeo,8,0,0,8,11,2,-2,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Margot,Russell,Mercedes,0,0,0,0,18,12,-12,TRUE,FALSE
+3,Melbourne,Australian Grand Prix,Margot,Sargeant,Williams,8,0,0,8,16,2,-2,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Margot,Norris,McLaren,0,0,3,3,6,NA,NA,FALSE,TRUE
+3,Melbourne,Australian Grand Prix,Jelle,Sainz,Ferrari,2,2,0,4,12,8,-8,TRUE,FALSE
+3,Melbourne,Australian Grand Prix,Jelle,Bottas,Alfa Romeo,6,0,0,6,11,4,4,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Jelle,Russell,Mercedes,0,0,0,0,18,16,-16,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Jelle,Sargeant,Williams,9,0,0,9,16,1,1,FALSE,FALSE
+3,Melbourne,Australian Grand Prix,Jelle,Bottas,Alfa Romeo,0,0,6,6,11,NA,NA,FALSE,TRUE
+4,Baku,Azerbaijan Grand Prix,Illias,Albon,Williams,11,0,0,11,12,0,0,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Illias,de Vries,AlphaTauri,5,0,0,5,20,5,-5,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Illias,Tsunoda,AlphaTauri,11,0,0,11,10,0,0,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Illias,Alonso,Aston Martin,11,11,0,22,4,0,0,TRUE,FALSE
+4,Baku,Azerbaijan Grand Prix,Illias,Stroll,Aston Martin,0,0,0,0,7,NA,NA,FALSE,TRUE
+4,Baku,Azerbaijan Grand Prix,Margot,Albon,Williams,9,0,0,9,12,1,1,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Margot,de Vries,AlphaTauri,5,0,0,5,20,5,-5,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Margot,Tsunoda,AlphaTauri,8,0,0,8,10,2,-2,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Margot,Alonso,Aston Martin,9,9,0,18,4,1,-1,TRUE,FALSE
+4,Baku,Azerbaijan Grand Prix,Margot,Bottas,Alfa Romeo,0,0,0,0,18,NA,NA,FALSE,TRUE
+4,Baku,Azerbaijan Grand Prix,Thijs,Albon,Williams,5,0,0,5,12,5,5,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Thijs,de Vries,AlphaTauri,8,0,0,8,20,2,-2,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Thijs,Tsunoda,AlphaTauri,4,0,0,4,10,6,6,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Thijs,Alonso,Aston Martin,11,11,0,22,4,0,0,TRUE,FALSE
+4,Baku,Azerbaijan Grand Prix,Thijs,Hamilton,Mercedes,0,0,0,0,6,NA,NA,FALSE,TRUE
+4,Baku,Azerbaijan Grand Prix,Dylan,Albon,Williams,11,0,0,11,12,0,0,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Dylan,de Vries,AlphaTauri,1,0,0,1,20,9,-9,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Dylan,Tsunoda,AlphaTauri,7,0,0,7,10,3,3,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Dylan,Alonso,Aston Martin,9,9,0,18,4,1,1,TRUE,FALSE
+4,Baku,Azerbaijan Grand Prix,Dylan,Stroll,Aston Martin,0,0,0,0,7,NA,NA,FALSE,TRUE
+4,Baku,Azerbaijan Grand Prix,Eva,Albon,Williams,4,4,0,8,12,6,6,TRUE,FALSE
+4,Baku,Azerbaijan Grand Prix,Eva,de Vries,AlphaTauri,5,0,0,5,20,5,-5,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Eva,Tsunoda,AlphaTauri,8,0,0,8,10,2,2,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Eva,Alonso,Aston Martin,9,0,0,9,4,1,1,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Eva,Leclerc,Ferrari,0,0,0,0,3,NA,NA,FALSE,TRUE
+4,Baku,Azerbaijan Grand Prix,Bram,Albon,Williams,6,0,0,6,12,4,-4,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Bram,de Vries,AlphaTauri,8,8,0,16,20,2,-2,TRUE,FALSE
+4,Baku,Azerbaijan Grand Prix,Bram,Tsunoda,AlphaTauri,4,0,0,4,10,6,6,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Bram,Alonso,Aston Martin,7,0,0,7,4,3,3,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Bram,Gasly,Alpine,0,0,4,4,14,NA,NA,FALSE,TRUE
+4,Baku,Azerbaijan Grand Prix,Ines,Albon,Williams,4,4,0,8,12,6,6,TRUE,FALSE
+4,Baku,Azerbaijan Grand Prix,Ines,de Vries,AlphaTauri,4,0,0,4,20,6,-6,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Ines,Tsunoda,AlphaTauri,9,0,0,9,10,1,1,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Ines,Alonso,Aston Martin,9,0,0,9,4,1,1,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Ines,Bottas,Alfa Romeo,0,0,0,0,18,NA,NA,FALSE,TRUE
+4,Baku,Azerbaijan Grand Prix,Matthias,Albon,Williams,6,0,0,6,12,4,4,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Matthias,de Vries,AlphaTauri,4,0,0,4,20,6,-6,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Matthias,Tsunoda,AlphaTauri,11,0,0,11,10,0,0,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Matthias,Alonso,Aston Martin,9,9,0,18,4,1,-1,TRUE,FALSE
+4,Baku,Azerbaijan Grand Prix,Matthias,Tsunoda,AlphaTauri,0,0,0,0,10,NA,NA,FALSE,TRUE
+4,Baku,Azerbaijan Grand Prix,Jonas,Albon,Williams,11,0,0,11,12,0,0,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Jonas,de Vries,AlphaTauri,5,0,0,5,20,5,-5,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Jonas,Tsunoda,AlphaTauri,4,0,0,4,10,6,6,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Jonas,Alonso,Aston Martin,11,11,0,22,4,0,0,TRUE,FALSE
+4,Baku,Azerbaijan Grand Prix,Jonas,Stroll,Aston Martin,0,0,0,0,7,NA,NA,FALSE,TRUE
+4,Baku,Azerbaijan Grand Prix,Filip,Albon,Williams,7,0,0,7,12,3,3,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Filip,de Vries,AlphaTauri,4,0,0,4,20,6,-6,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Filip,Tsunoda,AlphaTauri,8,0,0,8,10,2,2,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Filip,Alonso,Aston Martin,11,11,0,22,4,0,0,TRUE,FALSE
+4,Baku,Azerbaijan Grand Prix,Filip,Gasly,Alpine,0,0,4,4,14,NA,NA,FALSE,TRUE
+4,Baku,Azerbaijan Grand Prix,Ester,Albon,Williams,8,0,0,8,12,2,-2,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Ester,de Vries,AlphaTauri,5,0,0,5,20,5,-5,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Ester,Tsunoda,AlphaTauri,6,0,0,6,10,4,4,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Ester,Alonso,Aston Martin,9,9,0,18,4,1,-1,TRUE,FALSE
+4,Baku,Azerbaijan Grand Prix,Ester,Russell,Mercedes,0,0,6,6,8,NA,NA,FALSE,TRUE
+4,Baku,Azerbaijan Grand Prix,Mattijs,Albon,Williams,9,0,0,9,12,1,-1,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Mattijs,de Vries,AlphaTauri,5,0,0,5,20,5,-5,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Mattijs,Tsunoda,AlphaTauri,4,0,0,4,10,6,6,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Mattijs,Alonso,Aston Martin,9,9,0,18,4,1,-1,TRUE,FALSE
+4,Baku,Azerbaijan Grand Prix,Mattijs,Stroll,Aston Martin,0,0,0,0,7,NA,NA,FALSE,TRUE
+4,Baku,Azerbaijan Grand Prix,Jelle,Albon,Williams,5,0,0,5,12,5,5,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Jelle,de Vries,AlphaTauri,11,0,0,11,20,0,0,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Jelle,Tsunoda,AlphaTauri,4,0,0,4,10,6,6,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Jelle,Alonso,Aston Martin,8,8,0,16,4,2,-2,TRUE,FALSE
+4,Baku,Azerbaijan Grand Prix,Jelle,Leclerc,Ferrari,0,0,0,0,3,NA,NA,FALSE,TRUE
+4,Baku,Azerbaijan Grand Prix,Thibaut,Albon,Williams,7,0,0,7,12,3,3,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Thibaut,de Vries,AlphaTauri,6,0,0,6,20,4,-4,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Thibaut,Tsunoda,AlphaTauri,6,6,0,12,10,4,4,TRUE,FALSE
+4,Baku,Azerbaijan Grand Prix,Thibaut,Alonso,Aston Martin,11,0,0,11,4,0,0,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Thibaut,Ocon,Alpine,0,0,7,7,15,NA,NA,FALSE,TRUE
+4,Baku,Azerbaijan Grand Prix,Esmee,Albon,Williams,7,0,0,7,12,3,3,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Esmee,de Vries,AlphaTauri,4,0,0,4,20,6,-6,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Esmee,Tsunoda,AlphaTauri,7,0,0,7,10,3,3,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Esmee,Alonso,Aston Martin,9,9,0,18,4,1,1,TRUE,FALSE
+4,Baku,Azerbaijan Grand Prix,Esmee,Bottas,Alfa Romeo,0,0,0,0,18,NA,NA,FALSE,TRUE
+4,Baku,Azerbaijan Grand Prix,Bart,Albon,Williams,11,0,0,11,12,0,0,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Bart,de Vries,AlphaTauri,4,0,0,4,20,6,-6,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Bart,Tsunoda,AlphaTauri,5,0,0,5,10,5,5,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Bart,Alonso,Aston Martin,9,9,0,18,4,1,-1,TRUE,FALSE
+4,Baku,Azerbaijan Grand Prix,Bart,Stroll,Aston Martin,0,0,0,0,7,NA,NA,FALSE,TRUE
+4,Baku,Azerbaijan Grand Prix,Robbert,Albon,Williams,7,0,0,7,12,3,-3,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Robbert,de Vries,AlphaTauri,4,0,0,4,20,6,-6,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Robbert,Tsunoda,AlphaTauri,9,0,0,9,10,1,1,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Robbert,Alonso,Aston Martin,11,11,0,22,4,0,0,TRUE,FALSE
+4,Baku,Azerbaijan Grand Prix,Robbert,Norris,McLaren,0,0,0,0,9,NA,NA,FALSE,TRUE
+4,Baku,Azerbaijan Grand Prix,Notus,Albon,Williams,8,0,0,8,12,2,2,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Notus,de Vries,AlphaTauri,8,0,0,8,20,2,-2,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Notus,Tsunoda,AlphaTauri,9,0,0,9,10,1,1,FALSE,FALSE
+4,Baku,Azerbaijan Grand Prix,Notus,Alonso,Aston Martin,9,9,0,18,4,1,-1,TRUE,FALSE
+4,Baku,Azerbaijan Grand Prix,Notus,Bottas,Alfa Romeo,0,0,0,0,18,NA,NA,FALSE,TRUE
+5,Miami,Miami Grand Prix,Thibaut,Magnussen,Haas,5,0,0,5,10,5,5,FALSE,FALSE
+5,Miami,Miami Grand Prix,Thibaut,Gasly,Alpine,7,0,0,7,8,3,3,FALSE,FALSE
+5,Miami,Miami Grand Prix,Thibaut,Piastri,McLaren,5,0,0,5,19,5,-5,FALSE,FALSE
+5,Miami,Miami Grand Prix,Thibaut,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+5,Miami,Miami Grand Prix,Thibaut,Ocon,Alpine,0,0,0,0,9,NA,NA,FALSE,TRUE
+5,Miami,Miami Grand Prix,Notus,Magnussen,Haas,6,0,0,6,10,4,4,FALSE,FALSE
+5,Miami,Miami Grand Prix,Notus,Gasly,Alpine,9,0,0,9,8,1,1,FALSE,FALSE
+5,Miami,Miami Grand Prix,Notus,Piastri,McLaren,2,0,0,2,19,8,-8,FALSE,FALSE
+5,Miami,Miami Grand Prix,Notus,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+5,Miami,Miami Grand Prix,Notus,Ocon,Alpine,0,0,0,0,9,NA,NA,FALSE,TRUE
+5,Miami,Miami Grand Prix,Illias,Magnussen,Haas,8,0,0,8,10,2,2,FALSE,FALSE
+5,Miami,Miami Grand Prix,Illias,Gasly,Alpine,7,0,0,7,8,3,3,FALSE,FALSE
+5,Miami,Miami Grand Prix,Illias,Piastri,McLaren,6,0,0,6,19,4,-4,FALSE,FALSE
+5,Miami,Miami Grand Prix,Illias,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+5,Miami,Miami Grand Prix,Illias,Tsunoda,AlphaTauri,0,0,5,5,11,NA,NA,FALSE,TRUE
+5,Miami,Miami Grand Prix,Margot,Magnussen,Haas,8,0,0,8,10,2,2,FALSE,FALSE
+5,Miami,Miami Grand Prix,Margot,Gasly,Alpine,8,0,0,8,8,2,2,FALSE,FALSE
+5,Miami,Miami Grand Prix,Margot,Piastri,McLaren,7,0,0,7,19,3,-3,FALSE,FALSE
+5,Miami,Miami Grand Prix,Margot,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+5,Miami,Miami Grand Prix,Margot,Bottas,Alfa Romeo,0,0,0,0,13,NA,NA,FALSE,TRUE
+5,Miami,Miami Grand Prix,Bram,Magnussen,Haas,6,0,0,6,10,4,4,FALSE,FALSE
+5,Miami,Miami Grand Prix,Bram,Gasly,Alpine,7,0,0,7,8,3,-3,FALSE,FALSE
+5,Miami,Miami Grand Prix,Bram,Piastri,McLaren,4,0,0,4,19,6,-6,FALSE,FALSE
+5,Miami,Miami Grand Prix,Bram,Verstappen,Red Bull,0,0,0,0,1,17,17,TRUE,FALSE
+5,Miami,Miami Grand Prix,Bram,Stroll,Aston Martin,0,0,4,4,12,NA,NA,FALSE,TRUE
+5,Miami,Miami Grand Prix,Matthias,Magnussen,Haas,6,0,0,6,10,4,4,FALSE,FALSE
+5,Miami,Miami Grand Prix,Matthias,Gasly,Alpine,6,0,0,6,8,4,4,FALSE,FALSE
+5,Miami,Miami Grand Prix,Matthias,Piastri,McLaren,4,0,0,4,19,6,-6,FALSE,FALSE
+5,Miami,Miami Grand Prix,Matthias,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+5,Miami,Miami Grand Prix,Matthias,Alonso,Aston Martin,0,0,0,0,3,NA,NA,FALSE,TRUE
+5,Miami,Miami Grand Prix,Ines,Magnussen,Haas,8,0,0,8,10,2,2,FALSE,FALSE
+5,Miami,Miami Grand Prix,Ines,Gasly,Alpine,7,0,0,7,8,3,3,FALSE,FALSE
+5,Miami,Miami Grand Prix,Ines,Piastri,McLaren,3,0,0,3,19,7,-7,FALSE,FALSE
+5,Miami,Miami Grand Prix,Ines,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+5,Miami,Miami Grand Prix,Ines,Stroll,Aston Martin,0,0,4,4,12,NA,NA,FALSE,TRUE
+5,Miami,Miami Grand Prix,Thijs,Magnussen,Haas,7,0,0,7,10,3,3,FALSE,FALSE
+5,Miami,Miami Grand Prix,Thijs,Gasly,Alpine,9,0,0,9,8,1,1,FALSE,FALSE
+5,Miami,Miami Grand Prix,Thijs,Piastri,McLaren,8,0,0,8,19,2,-2,FALSE,FALSE
+5,Miami,Miami Grand Prix,Thijs,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+5,Miami,Miami Grand Prix,Thijs,Russell,Mercedes,0,0,3,3,4,NA,NA,FALSE,TRUE
+5,Miami,Miami Grand Prix,Dylan,Magnussen,Haas,8,0,0,8,10,2,2,FALSE,FALSE
+5,Miami,Miami Grand Prix,Dylan,Gasly,Alpine,7,0,0,7,8,3,3,FALSE,FALSE
+5,Miami,Miami Grand Prix,Dylan,Piastri,McLaren,4,0,0,4,19,6,-6,FALSE,FALSE
+5,Miami,Miami Grand Prix,Dylan,Verstappen,Red Bull,9,9,0,18,1,1,1,TRUE,FALSE
+5,Miami,Miami Grand Prix,Dylan,Magnussen,Haas,0,0,0,0,10,NA,NA,FALSE,TRUE
+5,Miami,Miami Grand Prix,Bart,Magnussen,Haas,4,0,0,4,10,6,6,FALSE,FALSE
+5,Miami,Miami Grand Prix,Bart,Gasly,Alpine,7,0,0,7,8,3,3,FALSE,FALSE
+5,Miami,Miami Grand Prix,Bart,Piastri,McLaren,0,0,0,0,19,10,-10,FALSE,FALSE
+5,Miami,Miami Grand Prix,Bart,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+5,Miami,Miami Grand Prix,Bart,Stroll,Aston Martin,0,0,4,4,12,NA,NA,FALSE,TRUE
+5,Miami,Miami Grand Prix,Mattijs,Magnussen,Haas,2,0,0,2,10,8,8,FALSE,FALSE
+5,Miami,Miami Grand Prix,Mattijs,Gasly,Alpine,4,0,0,4,8,6,6,FALSE,FALSE
+5,Miami,Miami Grand Prix,Mattijs,Piastri,McLaren,3,0,0,3,19,7,-7,FALSE,FALSE
+5,Miami,Miami Grand Prix,Mattijs,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+5,Miami,Miami Grand Prix,Mattijs,Bottas,Alfa Romeo,0,0,0,0,13,NA,NA,FALSE,TRUE
+5,Miami,Miami Grand Prix,Eva,Magnussen,Haas,7,0,0,7,10,3,3,FALSE,FALSE
+5,Miami,Miami Grand Prix,Eva,Gasly,Alpine,11,0,0,11,8,0,0,FALSE,FALSE
+5,Miami,Miami Grand Prix,Eva,Piastri,McLaren,8,0,0,8,19,2,-2,FALSE,FALSE
+5,Miami,Miami Grand Prix,Eva,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+5,Miami,Miami Grand Prix,Eva,Alonso,Aston Martin,0,0,0,0,3,NA,NA,FALSE,TRUE
+5,Miami,Miami Grand Prix,Filip,Magnussen,Haas,9,0,0,9,10,1,1,FALSE,FALSE
+5,Miami,Miami Grand Prix,Filip,Gasly,Alpine,9,0,0,9,8,1,1,FALSE,FALSE
+5,Miami,Miami Grand Prix,Filip,Piastri,McLaren,3,0,0,3,19,7,-7,FALSE,FALSE
+5,Miami,Miami Grand Prix,Filip,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+5,Miami,Miami Grand Prix,Filip,Gasly,Alpine,0,0,0,0,8,NA,NA,FALSE,TRUE
+5,Miami,Miami Grand Prix,Jelle,Magnussen,Haas,3,0,0,3,10,7,7,FALSE,FALSE
+5,Miami,Miami Grand Prix,Jelle,Gasly,Alpine,4,0,0,4,8,6,6,FALSE,FALSE
+5,Miami,Miami Grand Prix,Jelle,Piastri,McLaren,3,0,0,3,19,7,-7,FALSE,FALSE
+5,Miami,Miami Grand Prix,Jelle,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+5,Miami,Miami Grand Prix,Jelle,Alonso,Aston Martin,0,0,0,0,3,NA,NA,FALSE,TRUE
+5,Miami,Miami Grand Prix,Ester,Magnussen,Haas,8,0,0,8,10,2,2,FALSE,FALSE
+5,Miami,Miami Grand Prix,Ester,Gasly,Alpine,11,0,0,11,8,0,0,FALSE,FALSE
+5,Miami,Miami Grand Prix,Ester,Piastri,McLaren,7,0,0,7,19,3,-3,FALSE,FALSE
+5,Miami,Miami Grand Prix,Ester,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+5,Miami,Miami Grand Prix,Ester,Stroll,Aston Martin,0,0,4,4,12,NA,NA,FALSE,TRUE
+5,Miami,Miami Grand Prix,Robbert,Magnussen,Haas,7,0,0,7,10,3,3,FALSE,FALSE
+5,Miami,Miami Grand Prix,Robbert,Gasly,Alpine,4,0,0,4,8,6,6,FALSE,FALSE
+5,Miami,Miami Grand Prix,Robbert,Piastri,McLaren,2,0,0,2,19,8,-8,FALSE,FALSE
+5,Miami,Miami Grand Prix,Robbert,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+5,Miami,Miami Grand Prix,Robbert,Norris,McLaren,0,0,0,0,17,NA,NA,FALSE,TRUE
+5,Miami,Miami Grand Prix,Jonas,Magnussen,Haas,11,11,0,22,10,0,0,TRUE,FALSE
+5,Miami,Miami Grand Prix,Jonas,Gasly,Alpine,9,0,0,9,8,1,-1,FALSE,FALSE
+5,Miami,Miami Grand Prix,Jonas,Piastri,McLaren,6,0,0,6,19,4,-4,FALSE,FALSE
+5,Miami,Miami Grand Prix,Jonas,Verstappen,Red Bull,11,0,0,11,1,0,0,FALSE,FALSE
+5,Miami,Miami Grand Prix,Jonas,Tsunoda,AlphaTauri,0,0,5,5,11,NA,NA,FALSE,TRUE
+5,Miami,Miami Grand Prix,Esmee,Magnussen,Haas,7,0,0,7,10,3,3,FALSE,FALSE
+5,Miami,Miami Grand Prix,Esmee,Gasly,Alpine,7,0,0,7,8,3,3,FALSE,FALSE
+5,Miami,Miami Grand Prix,Esmee,Piastri,McLaren,5,0,0,5,19,5,-5,FALSE,FALSE
+5,Miami,Miami Grand Prix,Esmee,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+5,Miami,Miami Grand Prix,Esmee,Stroll,Aston Martin,0,0,4,4,12,NA,NA,FALSE,TRUE
+6,Monte-Carlo,Monaco Grand Prix,Thibaut,Stroll,Aston Martin,0,0,0,0,20,12,-12,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Thibaut,Piastri,McLaren,4,0,0,4,10,6,6,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Thibaut,Magnussen,Haas,5,0,0,5,19,5,-5,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Thibaut,Ocon,Alpine,4,4,0,8,3,6,6,TRUE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Thibaut,Hamilton,Mercedes,0,0,3,3,4,NA,NA,FALSE,TRUE
+6,Monte-Carlo,Monaco Grand Prix,Jonas,Stroll,Aston Martin,0,0,0,0,20,10,-10,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Jonas,Piastri,McLaren,4,0,0,4,10,6,6,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Jonas,Magnussen,Haas,3,0,0,3,19,7,-7,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Jonas,Ocon,Alpine,6,6,0,12,3,4,4,TRUE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Jonas,Russell,Mercedes,0,0,4,4,5,NA,NA,FALSE,TRUE
+6,Monte-Carlo,Monaco Grand Prix,Bram,Stroll,Aston Martin,0,0,0,0,20,11,-11,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Bram,Piastri,McLaren,6,6,0,12,10,4,4,TRUE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Bram,Magnussen,Haas,4,0,0,4,19,6,-6,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Bram,Ocon,Alpine,0,0,0,0,3,12,12,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Bram,Hamilton,Mercedes,0,0,3,3,4,NA,NA,FALSE,TRUE
+6,Monte-Carlo,Monaco Grand Prix,Thijs,Stroll,Aston Martin,0,0,0,0,20,12,-12,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Thijs,Piastri,McLaren,3,3,0,6,10,7,7,TRUE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Thijs,Magnussen,Haas,4,0,0,4,19,6,-6,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Thijs,Ocon,Alpine,4,0,0,4,3,6,6,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Thijs,Bottas,Alfa Romeo,0,0,6,6,11,NA,NA,FALSE,TRUE
+6,Monte-Carlo,Monaco Grand Prix,Dylan,Stroll,Aston Martin,1,0,0,1,20,9,-9,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Dylan,Piastri,McLaren,2,0,0,2,10,8,8,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Dylan,Magnussen,Haas,5,0,0,5,19,5,-5,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Dylan,Ocon,Alpine,3,3,0,6,3,7,7,TRUE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Dylan,Sainz,Ferrari,0,0,0,0,8,NA,NA,FALSE,TRUE
+6,Monte-Carlo,Monaco Grand Prix,Matthias,Stroll,Aston Martin,0,0,0,0,20,12,-12,TRUE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Matthias,Piastri,McLaren,4,0,0,4,10,6,6,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Matthias,Magnussen,Haas,5,0,0,5,19,5,-5,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Matthias,Ocon,Alpine,3,0,0,3,3,7,7,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Matthias,Verstappen,Red Bull,0,0,0,0,1,NA,NA,FALSE,TRUE
+6,Monte-Carlo,Monaco Grand Prix,Ines,Stroll,Aston Martin,0,0,0,0,20,13,-13,TRUE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Ines,Piastri,McLaren,3,0,0,3,10,7,7,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Ines,Magnussen,Haas,4,0,0,4,19,6,-6,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Ines,Ocon,Alpine,3,0,0,3,3,7,7,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Ines,Hamilton,Mercedes,0,0,3,3,4,NA,NA,FALSE,TRUE
+6,Monte-Carlo,Monaco Grand Prix,Jelle,Stroll,Aston Martin,0,0,0,0,20,14,-14,TRUE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Jelle,Piastri,McLaren,8,0,0,8,10,2,2,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Jelle,Magnussen,Haas,7,0,0,7,19,3,-3,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Jelle,Ocon,Alpine,0,0,0,0,3,14,14,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Jelle,Leclerc,Ferrari,0,0,0,0,6,NA,NA,FALSE,TRUE
+6,Monte-Carlo,Monaco Grand Prix,Bart,Stroll,Aston Martin,0,0,0,0,20,15,-15,TRUE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Bart,Piastri,McLaren,5,0,0,5,10,5,5,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Bart,Magnussen,Haas,3,0,0,3,19,7,-7,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Bart,Ocon,Alpine,3,0,0,3,3,7,7,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Bart,Hamilton,Mercedes,0,0,3,3,4,NA,NA,FALSE,TRUE
+6,Monte-Carlo,Monaco Grand Prix,Illias,Stroll,Aston Martin,0,0,0,0,20,13,-13,TRUE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Illias,Piastri,McLaren,5,0,0,5,10,5,5,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Illias,Magnussen,Haas,2,0,0,2,19,8,-8,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Illias,Ocon,Alpine,0,0,0,0,3,15,15,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Illias,Russell,Mercedes,0,0,4,4,5,NA,NA,FALSE,TRUE
+6,Monte-Carlo,Monaco Grand Prix,Margot,Stroll,Aston Martin,0,0,0,0,20,14,-14,TRUE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Margot,Piastri,McLaren,7,0,0,7,10,3,3,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Margot,Magnussen,Haas,0,0,0,0,19,10,-10,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Margot,Ocon,Alpine,0,0,0,0,3,13,13,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Margot,Bottas,Alfa Romeo,0,0,6,6,11,NA,NA,FALSE,TRUE
+6,Monte-Carlo,Monaco Grand Prix,Filip,Stroll,Aston Martin,0,0,0,0,20,12,-12,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Filip,Piastri,McLaren,4,0,0,4,10,6,6,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Filip,Magnussen,Haas,3,3,0,6,19,7,-7,TRUE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Filip,Ocon,Alpine,2,0,0,2,3,8,8,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Filip,Russell,Mercedes,0,0,4,4,5,NA,NA,FALSE,TRUE
+6,Monte-Carlo,Monaco Grand Prix,Robbert,Stroll,Aston Martin,0,0,0,0,20,15,-15,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Robbert,Piastri,McLaren,2,2,0,4,10,8,8,TRUE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Robbert,Magnussen,Haas,3,0,0,3,19,7,-7,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Robbert,Ocon,Alpine,4,0,0,4,3,6,6,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Robbert,Hamilton,Mercedes,0,0,3,3,4,NA,NA,FALSE,TRUE
+6,Monte-Carlo,Monaco Grand Prix,Ester,Stroll,Aston Martin,0,0,0,0,20,12,-12,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Ester,Piastri,McLaren,3,0,0,3,10,7,7,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Ester,Magnussen,Haas,4,4,0,8,19,6,-6,TRUE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Ester,Ocon,Alpine,3,0,0,3,3,7,7,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Ester,Stroll,Aston Martin,0,0,0,0,20,NA,NA,FALSE,TRUE
+6,Monte-Carlo,Monaco Grand Prix,Mattijs,Stroll,Aston Martin,0,0,0,0,20,13,-13,TRUE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Mattijs,Piastri,McLaren,2,0,0,2,10,8,8,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Mattijs,Magnussen,Haas,4,0,0,4,19,6,-6,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Mattijs,Ocon,Alpine,4,0,0,4,3,6,6,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Mattijs,Bottas,Alfa Romeo,0,0,6,6,11,NA,NA,FALSE,TRUE
+6,Monte-Carlo,Monaco Grand Prix,Esmee,Stroll,Aston Martin,0,0,0,0,20,12,-12,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Esmee,Piastri,McLaren,4,0,0,4,10,6,6,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Esmee,Magnussen,Haas,3,0,0,3,19,7,-7,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Esmee,Ocon,Alpine,3,3,0,6,3,7,7,TRUE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Esmee,Gasly,Alpine,0,0,0,0,7,NA,NA,FALSE,TRUE
+6,Monte-Carlo,Monaco Grand Prix,Eva,Stroll,Aston Martin,4,0,0,4,20,6,-6,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Eva,Piastri,McLaren,2,2,0,4,10,8,8,TRUE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Eva,Magnussen,Haas,0,0,0,0,19,10,-10,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Eva,Ocon,Alpine,1,0,0,1,3,9,9,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Eva,Alonso,Aston Martin,0,0,0,0,2,NA,NA,FALSE,TRUE
+6,Monte-Carlo,Monaco Grand Prix,Notus,Stroll,Aston Martin,4,0,0,4,20,6,-6,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Notus,Piastri,McLaren,3,0,0,3,10,7,7,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Notus,Magnussen,Haas,0,0,0,0,19,10,-10,TRUE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Notus,Ocon,Alpine,4,0,0,4,3,6,6,FALSE,FALSE
+6,Monte-Carlo,Monaco Grand Prix,Notus,Hamilton,Mercedes,0,0,3,3,4,NA,NA,FALSE,TRUE
+7,Montmeló,Spanish Grand Prix,Bram,Leclerc,Ferrari,9,0,0,9,11,1,-1,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Bram,Bottas,Alfa Romeo,2,0,0,2,19,8,-8,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Bram,Perez,Red Bull,5,5,0,10,4,5,5,TRUE,FALSE
+7,Montmeló,Spanish Grand Prix,Bram,Tsunoda,AlphaTauri,11,0,0,11,12,0,0,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Bram,Stroll,Aston Martin,0,0,0,0,6,NA,NA,FALSE,TRUE
+7,Montmeló,Spanish Grand Prix,Notus,Leclerc,Ferrari,3,0,0,3,11,7,-7,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Notus,Bottas,Alfa Romeo,4,0,0,4,19,6,-6,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Notus,Perez,Red Bull,8,8,0,16,4,2,-2,TRUE,FALSE
+7,Montmeló,Spanish Grand Prix,Notus,Tsunoda,AlphaTauri,9,0,0,9,12,1,-1,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Notus,Verstappen,Red Bull,0,0,0,0,1,NA,NA,FALSE,TRUE
+7,Montmeló,Spanish Grand Prix,Jonas,Leclerc,Ferrari,3,0,0,3,11,7,-7,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Jonas,Bottas,Alfa Romeo,1,0,0,1,19,9,-9,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Jonas,Perez,Red Bull,9,9,0,18,4,1,-1,TRUE,FALSE
+7,Montmeló,Spanish Grand Prix,Jonas,Tsunoda,AlphaTauri,7,0,0,7,12,3,-3,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Jonas,Stroll,Aston Martin,0,0,0,0,6,NA,NA,FALSE,TRUE
+7,Montmeló,Spanish Grand Prix,Thijs,Leclerc,Ferrari,5,0,0,5,11,5,-5,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Thijs,Bottas,Alfa Romeo,3,0,0,3,19,7,-7,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Thijs,Perez,Red Bull,11,11,0,22,4,0,0,TRUE,FALSE
+7,Montmeló,Spanish Grand Prix,Thijs,Tsunoda,AlphaTauri,6,0,0,6,12,4,4,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Thijs,Magnussen,Haas,0,0,0,0,18,NA,NA,FALSE,TRUE
+7,Montmeló,Spanish Grand Prix,Dylan,Leclerc,Ferrari,4,0,0,4,11,6,-6,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Dylan,Bottas,Alfa Romeo,4,0,0,4,19,6,-6,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Dylan,Perez,Red Bull,8,8,0,16,4,2,-2,TRUE,FALSE
+7,Montmeló,Spanish Grand Prix,Dylan,Tsunoda,AlphaTauri,8,0,0,8,12,2,-2,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Dylan,Stroll,Aston Martin,0,0,0,0,6,NA,NA,FALSE,TRUE
+7,Montmeló,Spanish Grand Prix,Robbert,Leclerc,Ferrari,5,0,0,5,11,5,-5,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Robbert,Bottas,Alfa Romeo,3,0,0,3,19,7,-7,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Robbert,Perez,Red Bull,8,8,0,16,4,2,-2,TRUE,FALSE
+7,Montmeló,Spanish Grand Prix,Robbert,Tsunoda,AlphaTauri,9,0,0,9,12,1,-1,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Robbert,Magnussen,Haas,0,0,0,0,18,NA,NA,FALSE,TRUE
+7,Montmeló,Spanish Grand Prix,Filip,Leclerc,Ferrari,5,0,0,5,11,5,-5,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Filip,Bottas,Alfa Romeo,4,0,0,4,19,6,-6,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Filip,Perez,Red Bull,8,8,0,16,4,2,-2,TRUE,FALSE
+7,Montmeló,Spanish Grand Prix,Filip,Tsunoda,AlphaTauri,9,0,0,9,12,1,-1,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Filip,Bottas,Alfa Romeo,0,0,0,0,19,NA,NA,FALSE,TRUE
+7,Montmeló,Spanish Grand Prix,Matthias,Leclerc,Ferrari,4,0,0,4,11,6,-6,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Matthias,Bottas,Alfa Romeo,3,0,0,3,19,7,-7,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Matthias,Perez,Red Bull,8,8,0,16,4,2,-2,TRUE,FALSE
+7,Montmeló,Spanish Grand Prix,Matthias,Tsunoda,AlphaTauri,8,0,0,8,12,2,2,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Matthias,Russell,Mercedes,0,0,7,7,3,NA,NA,FALSE,TRUE
+7,Montmeló,Spanish Grand Prix,Ines,Leclerc,Ferrari,2,0,0,2,11,8,-8,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Ines,Bottas,Alfa Romeo,4,0,0,4,19,6,-6,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Ines,Perez,Red Bull,9,9,0,18,4,1,-1,TRUE,FALSE
+7,Montmeló,Spanish Grand Prix,Ines,Tsunoda,AlphaTauri,9,0,0,9,12,1,-1,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Ines,Stroll,Aston Martin,0,0,0,0,6,NA,NA,FALSE,TRUE
+7,Montmeló,Spanish Grand Prix,Thibaut,Leclerc,Ferrari,4,0,0,4,11,6,-6,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Thibaut,Bottas,Alfa Romeo,6,0,0,6,19,4,-4,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Thibaut,Perez,Red Bull,8,8,0,16,4,2,-2,TRUE,FALSE
+7,Montmeló,Spanish Grand Prix,Thibaut,Tsunoda,AlphaTauri,9,0,0,9,12,1,-1,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Thibaut,Ocon,Alpine,0,0,0,0,8,NA,NA,FALSE,TRUE
+7,Montmeló,Spanish Grand Prix,Illias,Leclerc,Ferrari,5,0,0,5,11,5,-5,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Illias,Bottas,Alfa Romeo,2,0,0,2,19,8,-8,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Illias,Perez,Red Bull,8,8,0,16,4,2,-2,TRUE,FALSE
+7,Montmeló,Spanish Grand Prix,Illias,Tsunoda,AlphaTauri,6,0,0,6,12,4,-4,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Illias,Hamilton,Mercedes,0,0,0,0,2,NA,NA,FALSE,TRUE
+7,Montmeló,Spanish Grand Prix,Ester,Leclerc,Ferrari,6,0,0,6,11,4,-4,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Ester,Bottas,Alfa Romeo,3,0,0,3,19,7,-7,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Ester,Perez,Red Bull,8,8,0,16,4,2,-2,TRUE,FALSE
+7,Montmeló,Spanish Grand Prix,Ester,Tsunoda,AlphaTauri,9,0,0,9,12,1,1,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Ester,Ocon,Alpine,0,0,0,0,8,NA,NA,FALSE,TRUE
+7,Montmeló,Spanish Grand Prix,Margot,Leclerc,Ferrari,3,0,0,3,11,7,-7,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Margot,Bottas,Alfa Romeo,3,3,0,6,19,7,-7,TRUE,FALSE
+7,Montmeló,Spanish Grand Prix,Margot,Perez,Red Bull,9,0,0,9,4,1,-1,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Margot,Tsunoda,AlphaTauri,8,0,0,8,12,2,-2,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Margot,Piastri,McLaren,0,0,0,0,13,NA,NA,FALSE,TRUE
+7,Montmeló,Spanish Grand Prix,Esmee,Leclerc,Ferrari,4,0,0,4,11,6,-6,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Esmee,Bottas,Alfa Romeo,6,0,0,6,19,4,-4,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Esmee,Perez,Red Bull,9,9,0,18,4,1,-1,TRUE,FALSE
+7,Montmeló,Spanish Grand Prix,Esmee,Tsunoda,AlphaTauri,9,0,0,9,12,1,-1,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Esmee,Stroll,Aston Martin,0,0,0,0,6,NA,NA,FALSE,TRUE
+7,Montmeló,Spanish Grand Prix,Eva,Leclerc,Ferrari,2,0,0,2,11,8,-8,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Eva,Bottas,Alfa Romeo,3,0,0,3,19,7,-7,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Eva,Perez,Red Bull,11,11,0,22,4,0,0,TRUE,FALSE
+7,Montmeló,Spanish Grand Prix,Eva,Tsunoda,AlphaTauri,7,0,0,7,12,3,3,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Eva,Ocon,Alpine,0,0,0,0,8,NA,NA,FALSE,TRUE
+7,Montmeló,Spanish Grand Prix,Mattijs,Leclerc,Ferrari,2,0,0,2,11,8,-8,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Mattijs,Bottas,Alfa Romeo,0,0,0,0,19,11,-11,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Mattijs,Perez,Red Bull,8,8,0,16,4,2,-2,TRUE,FALSE
+7,Montmeló,Spanish Grand Prix,Mattijs,Tsunoda,AlphaTauri,7,0,0,7,12,3,-3,FALSE,FALSE
+7,Montmeló,Spanish Grand Prix,Mattijs,Stroll,Aston Martin,0,0,0,0,6,NA,NA,FALSE,TRUE
+8,Montreal,Canadian Grand Prix,Thibaut,Hamilton,Mercedes,11,0,0,11,3,0,0,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Thibaut,Alonso,Aston Martin,8,0,0,8,2,2,2,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Thibaut,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+8,Montreal,Canadian Grand Prix,Thibaut,Zhou,Alfa Romeo,8,0,0,8,16,2,-2,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Thibaut,Gasly,Alpine,0,0,0,0,12,NA,NA,FALSE,TRUE
+8,Montreal,Canadian Grand Prix,Bram,Hamilton,Mercedes,2,0,0,2,3,8,8,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Bram,Alonso,Aston Martin,9,0,0,9,2,1,1,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Bram,Verstappen,Red Bull,0,0,0,0,1,19,19,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Bram,Zhou,Alfa Romeo,0,0,0,0,16,10,-10,TRUE,FALSE
+8,Montreal,Canadian Grand Prix,Bram,Norris,McLaren,0,0,0,0,13,NA,NA,FALSE,TRUE
+8,Montreal,Canadian Grand Prix,Notus,Hamilton,Mercedes,9,0,0,9,3,1,-1,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Notus,Alonso,Aston Martin,8,0,0,8,2,2,2,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Notus,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+8,Montreal,Canadian Grand Prix,Notus,Zhou,Alfa Romeo,4,0,0,4,16,6,-6,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Notus,Perez,Red Bull,0,0,4,4,6,NA,NA,FALSE,TRUE
+8,Montreal,Canadian Grand Prix,Jonas,Hamilton,Mercedes,9,0,0,9,3,1,-1,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Jonas,Alonso,Aston Martin,8,8,0,16,2,2,2,TRUE,FALSE
+8,Montreal,Canadian Grand Prix,Jonas,Verstappen,Red Bull,11,0,0,11,1,0,0,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Jonas,Zhou,Alfa Romeo,7,0,0,7,16,3,-3,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Jonas,Ocon,Alpine,0,0,0,0,8,NA,NA,FALSE,TRUE
+8,Montreal,Canadian Grand Prix,Matthias,Hamilton,Mercedes,11,0,0,11,3,0,0,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Matthias,Alonso,Aston Martin,8,0,0,8,2,2,2,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Matthias,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+8,Montreal,Canadian Grand Prix,Matthias,Zhou,Alfa Romeo,5,0,0,5,16,5,-5,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Matthias,Perez,Red Bull,0,0,4,4,6,NA,NA,FALSE,TRUE
+8,Montreal,Canadian Grand Prix,Ines,Hamilton,Mercedes,9,0,0,9,3,1,1,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Ines,Alonso,Aston Martin,9,0,0,9,2,1,1,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Ines,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+8,Montreal,Canadian Grand Prix,Ines,Zhou,Alfa Romeo,5,0,0,5,16,5,-5,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Ines,Bottas,Alfa Romeo,0,0,0,0,10,NA,NA,FALSE,TRUE
+8,Montreal,Canadian Grand Prix,Dylan,Hamilton,Mercedes,8,0,0,8,3,2,2,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Dylan,Alonso,Aston Martin,9,0,0,9,2,1,1,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Dylan,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+8,Montreal,Canadian Grand Prix,Dylan,Zhou,Alfa Romeo,8,0,0,8,16,2,-2,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Dylan,Stroll,Aston Martin,0,0,7,7,9,NA,NA,FALSE,TRUE
+8,Montreal,Canadian Grand Prix,Illias,Hamilton,Mercedes,11,0,0,11,3,0,0,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Illias,Alonso,Aston Martin,8,0,0,8,2,2,2,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Illias,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+8,Montreal,Canadian Grand Prix,Illias,Zhou,Alfa Romeo,6,0,0,6,16,4,-4,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Illias,Tsunoda,AlphaTauri,0,0,3,3,14,NA,NA,FALSE,TRUE
+8,Montreal,Canadian Grand Prix,Margot,Hamilton,Mercedes,9,0,0,9,3,1,1,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Margot,Alonso,Aston Martin,8,0,0,8,2,2,2,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Margot,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+8,Montreal,Canadian Grand Prix,Margot,Zhou,Alfa Romeo,5,0,0,5,16,5,-5,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Margot,Hulkenberg,Haas,0,0,0,0,15,NA,NA,FALSE,TRUE
+8,Montreal,Canadian Grand Prix,Robbert,Hamilton,Mercedes,11,0,0,11,3,0,0,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Robbert,Alonso,Aston Martin,8,0,0,8,2,2,2,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Robbert,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+8,Montreal,Canadian Grand Prix,Robbert,Zhou,Alfa Romeo,3,0,0,3,16,7,-7,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Robbert,Gasly,Alpine,0,0,0,0,12,NA,NA,FALSE,TRUE
+8,Montreal,Canadian Grand Prix,Eva,Hamilton,Mercedes,11,0,0,11,3,0,0,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Eva,Alonso,Aston Martin,7,0,0,7,2,3,3,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Eva,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+8,Montreal,Canadian Grand Prix,Eva,Zhou,Alfa Romeo,6,0,0,6,16,4,-4,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Eva,Bottas,Alfa Romeo,0,0,0,0,10,NA,NA,FALSE,TRUE
+8,Montreal,Canadian Grand Prix,Filip,Hamilton,Mercedes,11,0,0,11,3,0,0,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Filip,Alonso,Aston Martin,8,0,0,8,2,2,2,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Filip,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+8,Montreal,Canadian Grand Prix,Filip,Zhou,Alfa Romeo,7,0,0,7,16,3,-3,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Filip,Gasly,Alpine,0,0,0,0,12,NA,NA,FALSE,TRUE
+8,Montreal,Canadian Grand Prix,Bart,Hamilton,Mercedes,11,0,0,11,3,0,0,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Bart,Alonso,Aston Martin,8,0,0,8,2,2,2,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Bart,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+8,Montreal,Canadian Grand Prix,Bart,Zhou,Alfa Romeo,6,0,0,6,16,4,-4,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Bart,Tsunoda,AlphaTauri,0,0,3,3,14,NA,NA,FALSE,TRUE
+8,Montreal,Canadian Grand Prix,Thijs,Hamilton,Mercedes,9,0,0,9,3,1,-1,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Thijs,Alonso,Aston Martin,6,0,0,6,2,4,4,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Thijs,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+8,Montreal,Canadian Grand Prix,Thijs,Zhou,Alfa Romeo,9,0,0,9,16,1,-1,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Thijs,Sainz,Ferrari,0,0,5,5,5,NA,NA,FALSE,TRUE
+8,Montreal,Canadian Grand Prix,Mattijs,Hamilton,Mercedes,7,0,0,7,3,3,3,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Mattijs,Alonso,Aston Martin,8,0,0,8,2,2,2,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Mattijs,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+8,Montreal,Canadian Grand Prix,Mattijs,Zhou,Alfa Romeo,8,0,0,8,16,2,-2,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Mattijs,Stroll,Aston Martin,0,0,7,7,9,NA,NA,FALSE,TRUE
+8,Montreal,Canadian Grand Prix,Esmee,Hamilton,Mercedes,11,0,0,11,3,0,0,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Esmee,Alonso,Aston Martin,8,0,0,8,2,2,2,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Esmee,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+8,Montreal,Canadian Grand Prix,Esmee,Zhou,Alfa Romeo,9,0,0,9,16,1,-1,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Esmee,Russell,Mercedes,0,0,0,0,19,NA,NA,FALSE,TRUE
+8,Montreal,Canadian Grand Prix,Ester,Hamilton,Mercedes,8,0,0,8,3,2,2,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Ester,Alonso,Aston Martin,11,0,0,11,2,0,0,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Ester,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+8,Montreal,Canadian Grand Prix,Ester,Zhou,Alfa Romeo,8,0,0,8,16,2,-2,FALSE,FALSE
+8,Montreal,Canadian Grand Prix,Ester,Sainz,Ferrari,0,0,5,5,5,NA,NA,FALSE,TRUE
+9,Spielberg,Austrian Grand Prix,Thibaut,Hulkenberg,Haas,6,0,0,6,20,4,-4,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Thibaut,Sainz,Ferrari,11,11,0,22,6,0,0,TRUE,FALSE
+9,Spielberg,Austrian Grand Prix,Thibaut,Gasly,Alpine,11,0,0,11,10,0,0,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Thibaut,Russell,Mercedes,11,0,0,11,7,0,0,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Thibaut,Ocon,Alpine,0,0,0,0,14,NA,NA,FALSE,TRUE
+9,Spielberg,Austrian Grand Prix,Matthias,Hulkenberg,Haas,5,5,0,10,20,5,-5,TRUE,FALSE
+9,Spielberg,Austrian Grand Prix,Matthias,Sainz,Ferrari,11,0,0,11,6,0,0,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Matthias,Gasly,Alpine,9,0,0,9,10,1,1,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Matthias,Russell,Mercedes,8,0,0,8,7,2,-2,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Matthias,Stroll,Aston Martin,0,0,0,0,9,NA,NA,FALSE,TRUE
+9,Spielberg,Austrian Grand Prix,Bram,Hulkenberg,Haas,4,0,0,4,20,6,-6,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Bram,Sainz,Ferrari,6,6,0,12,6,4,-4,TRUE,FALSE
+9,Spielberg,Austrian Grand Prix,Bram,Gasly,Alpine,9,0,0,9,10,1,-1,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Bram,Russell,Mercedes,7,0,0,7,7,3,3,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Bram,de Vries,AlphaTauri,0,0,3,3,17,NA,NA,FALSE,TRUE
+9,Spielberg,Austrian Grand Prix,Robbert,Hulkenberg,Haas,5,5,0,10,20,5,-5,TRUE,FALSE
+9,Spielberg,Austrian Grand Prix,Robbert,Sainz,Ferrari,9,0,0,9,6,1,-1,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Robbert,Gasly,Alpine,8,0,0,8,10,2,2,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Robbert,Russell,Mercedes,7,0,0,7,7,3,-3,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Robbert,Tsunoda,AlphaTauri,0,0,0,0,19,NA,NA,FALSE,TRUE
+9,Spielberg,Austrian Grand Prix,Eva,Hulkenberg,Haas,3,0,0,3,20,7,-7,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Eva,Sainz,Ferrari,8,8,0,16,6,2,-2,TRUE,FALSE
+9,Spielberg,Austrian Grand Prix,Eva,Gasly,Alpine,8,0,0,8,10,2,-2,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Eva,Russell,Mercedes,6,0,0,6,7,4,-4,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Eva,Stroll,Aston Martin,0,0,0,0,9,NA,NA,FALSE,TRUE
+9,Spielberg,Austrian Grand Prix,Illias,Hulkenberg,Haas,3,0,0,3,20,7,-7,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Illias,Sainz,Ferrari,9,0,0,9,6,1,1,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Illias,Gasly,Alpine,8,0,0,8,10,2,2,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Illias,Russell,Mercedes,7,7,0,14,7,3,-3,TRUE,FALSE
+9,Spielberg,Austrian Grand Prix,Illias,Albon,Williams,0,0,0,0,11,NA,NA,FALSE,TRUE
+9,Spielberg,Austrian Grand Prix,Margot,Hulkenberg,Haas,2,0,0,2,20,8,-8,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Margot,Sainz,Ferrari,9,9,0,18,6,1,-1,TRUE,FALSE
+9,Spielberg,Austrian Grand Prix,Margot,Gasly,Alpine,9,0,0,9,10,1,1,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Margot,Russell,Mercedes,6,0,0,6,7,4,-4,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Margot,Stroll,Aston Martin,0,0,0,0,9,NA,NA,FALSE,TRUE
+9,Spielberg,Austrian Grand Prix,Bart,Hulkenberg,Haas,4,0,0,4,20,6,-6,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Bart,Sainz,Ferrari,9,0,0,9,6,1,-1,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Bart,Gasly,Alpine,11,0,0,11,10,0,0,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Bart,Russell,Mercedes,7,7,0,14,7,3,-3,TRUE,FALSE
+9,Spielberg,Austrian Grand Prix,Bart,Bottas,Alfa Romeo,0,0,0,0,15,NA,NA,FALSE,TRUE
+9,Spielberg,Austrian Grand Prix,Thijs,Hulkenberg,Haas,5,5,0,10,20,5,-5,TRUE,FALSE
+9,Spielberg,Austrian Grand Prix,Thijs,Sainz,Ferrari,8,0,0,8,6,2,2,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Thijs,Gasly,Alpine,8,0,0,8,10,2,2,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Thijs,Russell,Mercedes,9,0,0,9,7,1,-1,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Thijs,Hamilton,Mercedes,0,0,0,0,8,NA,NA,FALSE,TRUE
+9,Spielberg,Austrian Grand Prix,Ines,Hulkenberg,Haas,5,0,0,5,20,5,-5,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Ines,Sainz,Ferrari,9,9,0,18,6,1,-1,TRUE,FALSE
+9,Spielberg,Austrian Grand Prix,Ines,Gasly,Alpine,7,0,0,7,10,3,3,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Ines,Russell,Mercedes,9,0,0,9,7,1,-1,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Ines,Gasly,Alpine,0,0,0,0,10,NA,NA,FALSE,TRUE
+9,Spielberg,Austrian Grand Prix,Filip,Hulkenberg,Haas,5,0,0,5,20,5,-5,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Filip,Sainz,Ferrari,9,9,0,18,6,1,-1,TRUE,FALSE
+9,Spielberg,Austrian Grand Prix,Filip,Gasly,Alpine,9,0,0,9,10,1,-1,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Filip,Russell,Mercedes,7,0,0,7,7,3,-3,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Filip,Tsunoda,AlphaTauri,0,0,0,0,19,NA,NA,FALSE,TRUE
+9,Spielberg,Austrian Grand Prix,Mattijs,Hulkenberg,Haas,4,0,0,4,20,6,-6,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Mattijs,Sainz,Ferrari,9,0,0,9,6,1,-1,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Mattijs,Gasly,Alpine,11,0,0,11,10,0,0,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Mattijs,Russell,Mercedes,9,9,0,18,7,1,-1,TRUE,FALSE
+9,Spielberg,Austrian Grand Prix,Mattijs,Bottas,Alfa Romeo,0,0,0,0,15,NA,NA,FALSE,TRUE
+9,Spielberg,Austrian Grand Prix,Notus,Hulkenberg,Haas,6,0,0,6,20,4,-4,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Notus,Sainz,Ferrari,11,0,0,11,6,0,0,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Notus,Gasly,Alpine,9,0,0,9,10,1,1,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Notus,Russell,Mercedes,7,7,0,14,7,3,-3,TRUE,FALSE
+9,Spielberg,Austrian Grand Prix,Notus,Perez,Red Bull,0,0,7,7,3,NA,NA,FALSE,TRUE
+9,Spielberg,Austrian Grand Prix,Dylan,Hulkenberg,Haas,6,6,0,12,20,4,-4,TRUE,FALSE
+9,Spielberg,Austrian Grand Prix,Dylan,Sainz,Ferrari,9,0,0,9,6,1,-1,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Dylan,Gasly,Alpine,11,0,0,11,10,0,0,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Dylan,Russell,Mercedes,7,0,0,7,7,3,-3,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Dylan,Stroll,Aston Martin,0,0,0,0,9,NA,NA,FALSE,TRUE
+9,Spielberg,Austrian Grand Prix,Ester,Hulkenberg,Haas,3,0,0,3,20,7,-7,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Ester,Sainz,Ferrari,8,8,0,16,6,2,-2,TRUE,FALSE
+9,Spielberg,Austrian Grand Prix,Ester,Gasly,Alpine,7,0,0,7,10,3,3,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Ester,Russell,Mercedes,9,0,0,9,7,1,-1,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Ester,Stroll,Aston Martin,0,0,0,0,9,NA,NA,FALSE,TRUE
+9,Spielberg,Austrian Grand Prix,Esmee,Hulkenberg,Haas,5,0,0,5,20,5,-5,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Esmee,Sainz,Ferrari,9,9,0,18,6,1,-1,TRUE,FALSE
+9,Spielberg,Austrian Grand Prix,Esmee,Gasly,Alpine,11,0,0,11,10,0,0,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Esmee,Russell,Mercedes,9,0,0,9,7,1,-1,FALSE,FALSE
+9,Spielberg,Austrian Grand Prix,Esmee,Stroll,Aston Martin,0,0,0,0,9,NA,NA,FALSE,TRUE
+10,Silverstone,British Grand Prix,Illias,Norris,McLaren,5,0,0,5,2,5,5,FALSE,FALSE
+10,Silverstone,British Grand Prix,Illias,Albon,Williams,6,6,0,12,8,4,4,TRUE,FALSE
+10,Silverstone,British Grand Prix,Illias,de Vries,AlphaTauri,11,0,0,11,17,0,0,FALSE,FALSE
+10,Silverstone,British Grand Prix,Illias,Sargeant,Williams,3,0,0,3,11,7,7,FALSE,FALSE
+10,Silverstone,British Grand Prix,Illias,Perez,Red Bull,0,0,7,7,6,NA,NA,FALSE,TRUE
+10,Silverstone,British Grand Prix,Margot,Norris,McLaren,4,4,0,8,2,6,6,TRUE,FALSE
+10,Silverstone,British Grand Prix,Margot,Albon,Williams,7,0,0,7,8,3,3,FALSE,FALSE
+10,Silverstone,British Grand Prix,Margot,de Vries,AlphaTauri,8,0,0,8,17,2,-2,FALSE,FALSE
+10,Silverstone,British Grand Prix,Margot,Sargeant,Williams,3,0,0,3,11,7,7,FALSE,FALSE
+10,Silverstone,British Grand Prix,Margot,Perez,Red Bull,0,0,7,7,6,NA,NA,FALSE,TRUE
+10,Silverstone,British Grand Prix,Robbert,Norris,McLaren,7,0,0,7,2,3,3,FALSE,FALSE
+10,Silverstone,British Grand Prix,Robbert,Albon,Williams,7,0,0,7,8,3,3,FALSE,FALSE
+10,Silverstone,British Grand Prix,Robbert,de Vries,AlphaTauri,11,11,0,22,17,0,0,TRUE,FALSE
+10,Silverstone,British Grand Prix,Robbert,Sargeant,Williams,8,0,0,8,11,2,2,FALSE,FALSE
+10,Silverstone,British Grand Prix,Robbert,Stroll,Aston Martin,0,0,0,0,14,NA,NA,FALSE,TRUE
+10,Silverstone,British Grand Prix,Dylan,Norris,McLaren,5,0,0,5,2,5,5,FALSE,FALSE
+10,Silverstone,British Grand Prix,Dylan,Albon,Williams,4,0,0,4,8,6,6,FALSE,FALSE
+10,Silverstone,British Grand Prix,Dylan,de Vries,AlphaTauri,5,0,0,5,17,5,-5,FALSE,FALSE
+10,Silverstone,British Grand Prix,Dylan,Sargeant,Williams,2,2,0,4,11,8,8,TRUE,FALSE
+10,Silverstone,British Grand Prix,Dylan,Stroll,Aston Martin,0,0,0,0,14,NA,NA,FALSE,TRUE
+10,Silverstone,British Grand Prix,Bart,Norris,McLaren,3,0,0,3,2,7,7,FALSE,FALSE
+10,Silverstone,British Grand Prix,Bart,Albon,Williams,11,11,0,22,8,0,0,TRUE,FALSE
+10,Silverstone,British Grand Prix,Bart,de Vries,AlphaTauri,5,0,0,5,17,5,-5,FALSE,FALSE
+10,Silverstone,British Grand Prix,Bart,Sargeant,Williams,11,0,0,11,11,0,0,FALSE,FALSE
+10,Silverstone,British Grand Prix,Bart,Sargeant,Williams,0,0,4,4,11,NA,NA,FALSE,TRUE
+10,Silverstone,British Grand Prix,Filip,Norris,McLaren,3,3,0,6,2,7,7,TRUE,FALSE
+10,Silverstone,British Grand Prix,Filip,Albon,Williams,8,0,0,8,8,2,2,FALSE,FALSE
+10,Silverstone,British Grand Prix,Filip,de Vries,AlphaTauri,9,0,0,9,17,1,-1,FALSE,FALSE
+10,Silverstone,British Grand Prix,Filip,Sargeant,Williams,7,0,0,7,11,3,3,FALSE,FALSE
+10,Silverstone,British Grand Prix,Filip,Zhou,Alfa Romeo,0,0,0,0,15,NA,NA,FALSE,TRUE
+10,Silverstone,British Grand Prix,Thijs,Norris,McLaren,1,0,0,1,2,9,9,FALSE,FALSE
+10,Silverstone,British Grand Prix,Thijs,Albon,Williams,8,0,0,8,8,2,-2,FALSE,FALSE
+10,Silverstone,British Grand Prix,Thijs,de Vries,AlphaTauri,9,9,0,18,17,1,1,TRUE,FALSE
+10,Silverstone,British Grand Prix,Thijs,Sargeant,Williams,8,0,0,8,11,2,-2,FALSE,FALSE
+10,Silverstone,British Grand Prix,Thijs,Russell,Mercedes,0,0,0,0,5,NA,NA,FALSE,TRUE
+10,Silverstone,British Grand Prix,Jonas,Norris,McLaren,5,5,0,10,2,5,5,TRUE,FALSE
+10,Silverstone,British Grand Prix,Jonas,Albon,Williams,11,0,0,11,8,0,0,FALSE,FALSE
+10,Silverstone,British Grand Prix,Jonas,de Vries,AlphaTauri,8,0,0,8,17,2,2,FALSE,FALSE
+10,Silverstone,British Grand Prix,Jonas,Sargeant,Williams,6,0,0,6,11,4,4,FALSE,FALSE
+10,Silverstone,British Grand Prix,Jonas,Stroll,Aston Martin,0,0,0,0,14,NA,NA,FALSE,TRUE
+10,Silverstone,British Grand Prix,Mattijs,Norris,McLaren,6,0,0,6,2,4,4,FALSE,FALSE
+10,Silverstone,British Grand Prix,Mattijs,Albon,Williams,5,0,0,5,8,5,5,FALSE,FALSE
+10,Silverstone,British Grand Prix,Mattijs,de Vries,AlphaTauri,8,0,0,8,17,2,2,FALSE,FALSE
+10,Silverstone,British Grand Prix,Mattijs,Sargeant,Williams,3,3,0,6,11,7,7,TRUE,FALSE
+10,Silverstone,British Grand Prix,Mattijs,Stroll,Aston Martin,0,0,0,0,14,NA,NA,FALSE,TRUE
+10,Silverstone,British Grand Prix,Notus,Norris,McLaren,1,0,0,1,2,9,9,FALSE,FALSE
+10,Silverstone,British Grand Prix,Notus,Albon,Williams,6,6,0,12,8,4,-4,TRUE,FALSE
+10,Silverstone,British Grand Prix,Notus,de Vries,AlphaTauri,8,0,0,8,17,2,2,FALSE,FALSE
+10,Silverstone,British Grand Prix,Notus,Sargeant,Williams,9,0,0,9,11,1,-1,FALSE,FALSE
+10,Silverstone,British Grand Prix,Notus,Perez,Red Bull,0,0,7,7,6,NA,NA,FALSE,TRUE
+10,Silverstone,British Grand Prix,Ines,Norris,McLaren,4,0,0,4,2,6,6,FALSE,FALSE
+10,Silverstone,British Grand Prix,Ines,Albon,Williams,5,0,0,5,8,5,5,FALSE,FALSE
+10,Silverstone,British Grand Prix,Ines,de Vries,AlphaTauri,9,0,0,9,17,1,-1,FALSE,FALSE
+10,Silverstone,British Grand Prix,Ines,Sargeant,Williams,5,5,0,10,11,5,5,TRUE,FALSE
+10,Silverstone,British Grand Prix,Ines,Perez,Red Bull,0,0,7,7,6,NA,NA,FALSE,TRUE
+10,Silverstone,British Grand Prix,Matthias,Norris,McLaren,5,0,0,5,2,5,5,FALSE,FALSE
+10,Silverstone,British Grand Prix,Matthias,Albon,Williams,9,0,0,9,8,1,1,FALSE,FALSE
+10,Silverstone,British Grand Prix,Matthias,de Vries,AlphaTauri,11,11,0,22,17,0,0,TRUE,FALSE
+10,Silverstone,British Grand Prix,Matthias,Sargeant,Williams,7,0,0,7,11,3,3,FALSE,FALSE
+10,Silverstone,British Grand Prix,Matthias,Russell,Mercedes,0,0,0,0,5,NA,NA,FALSE,TRUE
+10,Silverstone,British Grand Prix,Thibaut,Norris,McLaren,5,0,0,5,2,5,5,FALSE,FALSE
+10,Silverstone,British Grand Prix,Thibaut,Albon,Williams,6,0,0,6,8,4,4,FALSE,FALSE
+10,Silverstone,British Grand Prix,Thibaut,de Vries,AlphaTauri,8,8,0,16,17,2,-2,TRUE,FALSE
+10,Silverstone,British Grand Prix,Thibaut,Sargeant,Williams,3,0,0,3,11,7,7,FALSE,FALSE
+10,Silverstone,British Grand Prix,Thibaut,Perez,Red Bull,0,0,7,7,6,NA,NA,FALSE,TRUE
+10,Silverstone,British Grand Prix,Bram,Norris,McLaren,11,0,0,11,2,0,0,FALSE,FALSE
+10,Silverstone,British Grand Prix,Bram,Albon,Williams,3,3,0,6,8,7,7,TRUE,FALSE
+10,Silverstone,British Grand Prix,Bram,de Vries,AlphaTauri,0,0,0,0,17,11,-11,FALSE,FALSE
+10,Silverstone,British Grand Prix,Bram,Sargeant,Williams,7,0,0,7,11,3,-3,FALSE,FALSE
+10,Silverstone,British Grand Prix,Bram,Sargeant,Williams,0,0,4,4,11,NA,NA,FALSE,TRUE
+10,Silverstone,British Grand Prix,Esmee,Norris,McLaren,6,6,0,12,2,4,4,TRUE,FALSE
+10,Silverstone,British Grand Prix,Esmee,Albon,Williams,4,0,0,4,8,6,6,FALSE,FALSE
+10,Silverstone,British Grand Prix,Esmee,de Vries,AlphaTauri,9,0,0,9,17,1,-1,FALSE,FALSE
+10,Silverstone,British Grand Prix,Esmee,Sargeant,Williams,3,0,0,3,11,7,7,FALSE,FALSE
+10,Silverstone,British Grand Prix,Esmee,Magnussen,Haas,0,0,0,0,19,NA,NA,FALSE,TRUE
+10,Silverstone,British Grand Prix,Eva,Norris,McLaren,0,0,0,0,2,11,11,FALSE,FALSE
+10,Silverstone,British Grand Prix,Eva,Albon,Williams,0,0,0,0,8,11,11,FALSE,FALSE
+10,Silverstone,British Grand Prix,Eva,de Vries,AlphaTauri,11,0,0,11,17,0,0,FALSE,FALSE
+10,Silverstone,British Grand Prix,Eva,Sargeant,Williams,1,1,0,2,11,9,9,TRUE,FALSE
+10,Silverstone,British Grand Prix,Eva,Stroll,Aston Martin,0,0,0,0,14,NA,NA,FALSE,TRUE
+10,Silverstone,British Grand Prix,Ester,Norris,McLaren,3,0,0,3,2,7,7,FALSE,FALSE
+10,Silverstone,British Grand Prix,Ester,Albon,Williams,9,0,0,9,8,1,-1,FALSE,FALSE
+10,Silverstone,British Grand Prix,Ester,de Vries,AlphaTauri,7,7,0,14,17,3,3,TRUE,FALSE
+10,Silverstone,British Grand Prix,Ester,Sargeant,Williams,11,0,0,11,11,0,0,FALSE,FALSE
+10,Silverstone,British Grand Prix,Ester,Stroll,Aston Martin,0,0,0,0,14,NA,NA,FALSE,TRUE
+11,Budapest,Hungarian Grand Prix,Bram,Alonso,Aston Martin,5,5,0,10,9,5,-5,TRUE,FALSE
+11,Budapest,Hungarian Grand Prix,Bram,Perez,Red Bull,8,0,0,8,3,2,2,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Bram,Zhou,Alfa Romeo,8,0,0,8,16,2,-2,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Bram,Russell,Mercedes,7,0,0,7,6,3,-3,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Bram,Zhou,Alfa Romeo,0,0,0,0,16,NA,NA,FALSE,TRUE
+11,Budapest,Hungarian Grand Prix,Dylan,Alonso,Aston Martin,5,5,0,10,9,5,-5,TRUE,FALSE
+11,Budapest,Hungarian Grand Prix,Dylan,Perez,Red Bull,7,0,0,7,3,3,3,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Dylan,Zhou,Alfa Romeo,9,0,0,9,16,1,-1,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Dylan,Russell,Mercedes,11,0,0,11,6,0,0,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Dylan,Ricciardo,AlphaTauri,0,0,0,0,13,NA,NA,FALSE,TRUE
+11,Budapest,Hungarian Grand Prix,Thijs,Alonso,Aston Martin,7,7,0,14,9,3,-3,TRUE,FALSE
+11,Budapest,Hungarian Grand Prix,Thijs,Perez,Red Bull,8,0,0,8,3,2,2,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Thijs,Zhou,Alfa Romeo,8,0,0,8,16,2,-2,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Thijs,Russell,Mercedes,7,0,0,7,6,3,3,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Thijs,Norris,McLaren,0,0,0,0,2,NA,NA,FALSE,TRUE
+11,Budapest,Hungarian Grand Prix,Thibaut,Alonso,Aston Martin,6,6,0,12,9,4,-4,TRUE,FALSE
+11,Budapest,Hungarian Grand Prix,Thibaut,Perez,Red Bull,9,0,0,9,3,1,-1,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Thibaut,Zhou,Alfa Romeo,9,0,0,9,16,1,-1,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Thibaut,Russell,Mercedes,11,0,0,11,6,0,0,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Thibaut,Perez,Red Bull,0,0,6,6,3,NA,NA,FALSE,TRUE
+11,Budapest,Hungarian Grand Prix,Jonas,Alonso,Aston Martin,8,0,0,8,9,2,-2,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Jonas,Perez,Red Bull,7,0,0,7,3,3,3,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Jonas,Zhou,Alfa Romeo,11,11,0,22,16,0,0,TRUE,FALSE
+11,Budapest,Hungarian Grand Prix,Jonas,Russell,Mercedes,9,0,0,9,6,1,-1,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Jonas,Stroll,Aston Martin,0,0,4,4,10,NA,NA,FALSE,TRUE
+11,Budapest,Hungarian Grand Prix,Illias,Alonso,Aston Martin,5,0,0,5,9,5,-5,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Illias,Perez,Red Bull,6,0,0,6,3,4,4,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Illias,Zhou,Alfa Romeo,5,0,0,5,16,5,-5,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Illias,Russell,Mercedes,9,9,0,18,6,1,-1,TRUE,FALSE
+11,Budapest,Hungarian Grand Prix,Illias,Perez,Red Bull,0,0,6,6,3,NA,NA,FALSE,TRUE
+11,Budapest,Hungarian Grand Prix,Margot,Alonso,Aston Martin,5,5,0,10,9,5,-5,TRUE,FALSE
+11,Budapest,Hungarian Grand Prix,Margot,Perez,Red Bull,5,0,0,5,3,5,5,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Margot,Zhou,Alfa Romeo,6,0,0,6,16,4,-4,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Margot,Russell,Mercedes,11,0,0,11,6,0,0,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Margot,Perez,Red Bull,0,0,6,6,3,NA,NA,FALSE,TRUE
+11,Budapest,Hungarian Grand Prix,Eva,Alonso,Aston Martin,6,0,0,6,9,4,-4,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Eva,Perez,Red Bull,0,0,0,0,3,17,17,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Eva,Zhou,Alfa Romeo,9,0,0,9,16,1,-1,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Eva,Russell,Mercedes,8,8,0,16,6,2,-2,TRUE,FALSE
+11,Budapest,Hungarian Grand Prix,Eva,Stroll,Aston Martin,0,0,4,4,10,NA,NA,FALSE,TRUE
+11,Budapest,Hungarian Grand Prix,Robbert,Alonso,Aston Martin,5,0,0,5,9,5,-5,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Robbert,Perez,Red Bull,11,0,0,11,3,0,0,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Robbert,Zhou,Alfa Romeo,9,9,0,18,16,1,-1,TRUE,FALSE
+11,Budapest,Hungarian Grand Prix,Robbert,Russell,Mercedes,9,0,0,9,6,1,-1,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Robbert,Perez,Red Bull,0,0,6,6,3,NA,NA,FALSE,TRUE
+11,Budapest,Hungarian Grand Prix,Mattijs,Alonso,Aston Martin,6,0,0,6,9,4,-4,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Mattijs,Perez,Red Bull,9,9,0,18,3,1,1,TRUE,FALSE
+11,Budapest,Hungarian Grand Prix,Mattijs,Zhou,Alfa Romeo,5,0,0,5,16,5,-5,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Mattijs,Russell,Mercedes,11,0,0,11,6,0,0,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Mattijs,Perez,Red Bull,0,0,6,6,3,NA,NA,TRUE,TRUE
+11,Budapest,Hungarian Grand Prix,Ester,Alonso,Aston Martin,11,11,0,22,9,0,0,TRUE,FALSE
+11,Budapest,Hungarian Grand Prix,Ester,Perez,Red Bull,8,0,0,8,3,2,2,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Ester,Zhou,Alfa Romeo,7,0,0,7,16,3,-3,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Ester,Russell,Mercedes,8,0,0,8,6,2,2,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Ester,Perez,Red Bull,0,0,6,6,3,NA,NA,FALSE,TRUE
+11,Budapest,Hungarian Grand Prix,Bart,Alonso,Aston Martin,9,0,0,9,9,1,-1,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Bart,Perez,Red Bull,8,0,0,8,3,2,2,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Bart,Zhou,Alfa Romeo,7,0,0,7,16,3,-3,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Bart,Russell,Mercedes,8,8,0,16,6,2,-2,TRUE,FALSE
+11,Budapest,Hungarian Grand Prix,Bart,Perez,Red Bull,0,0,6,6,3,NA,NA,FALSE,TRUE
+11,Budapest,Hungarian Grand Prix,Esmee,Alonso,Aston Martin,5,0,0,5,9,5,-5,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Esmee,Perez,Red Bull,11,11,0,22,3,0,0,TRUE,FALSE
+11,Budapest,Hungarian Grand Prix,Esmee,Zhou,Alfa Romeo,8,0,0,8,16,2,-2,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Esmee,Russell,Mercedes,11,0,0,11,6,0,0,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Esmee,Gasly,Alpine,0,0,0,0,20,NA,NA,FALSE,TRUE
+11,Budapest,Hungarian Grand Prix,Ines,Alonso,Aston Martin,7,7,0,14,9,3,-3,TRUE,FALSE
+11,Budapest,Hungarian Grand Prix,Ines,Perez,Red Bull,8,0,0,8,3,2,2,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Ines,Zhou,Alfa Romeo,8,0,0,8,16,2,-2,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Ines,Russell,Mercedes,9,0,0,9,6,1,-1,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Ines,Stroll,Aston Martin,0,0,4,4,10,NA,NA,FALSE,TRUE
+11,Budapest,Hungarian Grand Prix,Matthias,Alonso,Aston Martin,6,0,0,6,9,4,-4,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Matthias,Perez,Red Bull,11,11,0,22,3,0,0,TRUE,FALSE
+11,Budapest,Hungarian Grand Prix,Matthias,Zhou,Alfa Romeo,8,0,0,8,16,2,-2,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Matthias,Russell,Mercedes,11,0,0,11,6,0,0,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Matthias,Ricciardo,AlphaTauri,0,0,0,0,13,NA,NA,FALSE,TRUE
+11,Budapest,Hungarian Grand Prix,Filip,Alonso,Aston Martin,6,0,0,6,9,4,-4,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Filip,Perez,Red Bull,9,9,0,18,3,1,1,TRUE,FALSE
+11,Budapest,Hungarian Grand Prix,Filip,Zhou,Alfa Romeo,8,0,0,8,16,2,-2,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Filip,Russell,Mercedes,11,0,0,11,6,0,0,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Filip,Ricciardo,AlphaTauri,0,0,0,0,13,NA,NA,FALSE,TRUE
+11,Budapest,Hungarian Grand Prix,Notus,Alonso,Aston Martin,6,0,0,6,9,4,-4,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Notus,Perez,Red Bull,7,0,0,7,3,3,3,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Notus,Zhou,Alfa Romeo,11,0,0,11,16,0,0,FALSE,FALSE
+11,Budapest,Hungarian Grand Prix,Notus,Russell,Mercedes,8,8,0,16,6,2,-2,TRUE,FALSE
+11,Budapest,Hungarian Grand Prix,Notus,Perez,Red Bull,0,0,6,6,3,NA,NA,FALSE,TRUE
+12,Spa,Belgian Grand Prix,Bram,Albon,Williams,8,8,0,16,14,2,-2,TRUE,FALSE
+12,Spa,Belgian Grand Prix,Bram,Verstappen,Red Bull,0,0,0,0,1,19,19,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Bram,Ricciardo,AlphaTauri,0,0,0,0,16,10,-10,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Bram,Hamilton,Mercedes,7,0,0,7,4,3,-3,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Bram,Zhou,Alfa Romeo,0,0,4,4,13,NA,NA,FALSE,TRUE
+12,Spa,Belgian Grand Prix,Notus,Albon,Williams,5,0,0,5,14,5,-5,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Notus,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+12,Spa,Belgian Grand Prix,Notus,Ricciardo,AlphaTauri,9,0,0,9,16,1,-1,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Notus,Hamilton,Mercedes,9,0,0,9,4,1,-1,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Notus,Stroll,Aston Martin,0,0,0,0,9,NA,NA,FALSE,TRUE
+12,Spa,Belgian Grand Prix,Margot,Albon,Williams,11,0,0,11,14,0,0,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Margot,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+12,Spa,Belgian Grand Prix,Margot,Ricciardo,AlphaTauri,4,0,0,4,16,6,-6,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Margot,Hamilton,Mercedes,11,0,0,11,4,0,0,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Margot,Perez,Red Bull,0,0,0,0,2,NA,NA,FALSE,TRUE
+12,Spa,Belgian Grand Prix,Illias,Albon,Williams,9,0,0,9,14,1,1,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Illias,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+12,Spa,Belgian Grand Prix,Illias,Ricciardo,AlphaTauri,6,0,0,6,16,4,-4,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Illias,Hamilton,Mercedes,11,0,0,11,4,0,0,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Illias,Perez,Red Bull,0,0,0,0,2,NA,NA,FALSE,TRUE
+12,Spa,Belgian Grand Prix,Thibaut,Albon,Williams,8,0,0,8,14,2,-2,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Thibaut,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+12,Spa,Belgian Grand Prix,Thibaut,Ricciardo,AlphaTauri,8,0,0,8,16,2,-2,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Thibaut,Hamilton,Mercedes,11,0,0,11,4,0,0,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Thibaut,Perez,Red Bull,0,0,0,0,2,NA,NA,FALSE,TRUE
+12,Spa,Belgian Grand Prix,Jonas,Albon,Williams,4,0,0,4,14,6,-6,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Jonas,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+12,Spa,Belgian Grand Prix,Jonas,Ricciardo,AlphaTauri,8,0,0,8,16,2,-2,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Jonas,Hamilton,Mercedes,11,0,0,11,4,0,0,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Jonas,Alonso,Aston Martin,0,0,5,5,5,NA,NA,FALSE,TRUE
+12,Spa,Belgian Grand Prix,Eva,Albon,Williams,8,0,0,8,14,2,2,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Eva,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+12,Spa,Belgian Grand Prix,Eva,Ricciardo,AlphaTauri,9,0,0,9,16,1,1,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Eva,Hamilton,Mercedes,11,0,0,11,4,0,0,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Eva,Perez,Red Bull,0,0,0,0,2,NA,NA,FALSE,TRUE
+12,Spa,Belgian Grand Prix,Dylan,Albon,Williams,6,0,0,6,14,4,-4,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Dylan,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+12,Spa,Belgian Grand Prix,Dylan,Ricciardo,AlphaTauri,7,0,0,7,16,3,-3,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Dylan,Hamilton,Mercedes,11,0,0,11,4,0,0,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Dylan,Perez,Red Bull,0,0,0,0,2,NA,NA,FALSE,TRUE
+12,Spa,Belgian Grand Prix,Robbert,Albon,Williams,7,0,0,7,14,3,-3,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Robbert,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+12,Spa,Belgian Grand Prix,Robbert,Ricciardo,AlphaTauri,4,0,0,4,16,6,-6,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Robbert,Hamilton,Mercedes,11,0,0,11,4,0,0,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Robbert,Perez,Red Bull,0,0,0,0,2,NA,NA,FALSE,TRUE
+12,Spa,Belgian Grand Prix,Thijs,Albon,Williams,8,0,0,8,14,2,2,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Thijs,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+12,Spa,Belgian Grand Prix,Thijs,Ricciardo,AlphaTauri,6,0,0,6,16,4,-4,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Thijs,Hamilton,Mercedes,9,0,0,9,4,1,1,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Thijs,Russell,Mercedes,0,0,0,0,6,NA,NA,FALSE,TRUE
+12,Spa,Belgian Grand Prix,Mattijs,Albon,Williams,7,0,0,7,14,3,3,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Mattijs,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+12,Spa,Belgian Grand Prix,Mattijs,Ricciardo,AlphaTauri,5,0,0,5,16,5,-5,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Mattijs,Hamilton,Mercedes,11,0,0,11,4,0,0,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Mattijs,Perez,Red Bull,0,0,0,0,2,NA,NA,FALSE,TRUE
+12,Spa,Belgian Grand Prix,Ester,Albon,Williams,7,0,0,7,14,3,-3,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Ester,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+12,Spa,Belgian Grand Prix,Ester,Ricciardo,AlphaTauri,7,0,0,7,16,3,-3,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Ester,Hamilton,Mercedes,9,0,0,9,4,1,-1,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Ester,Perez,Red Bull,0,0,0,0,2,NA,NA,FALSE,TRUE
+12,Spa,Belgian Grand Prix,Matthias,Albon,Williams,8,0,0,8,14,2,-2,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Matthias,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+12,Spa,Belgian Grand Prix,Matthias,Ricciardo,AlphaTauri,11,0,0,11,16,0,0,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Matthias,Hamilton,Mercedes,9,0,0,9,4,1,-1,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Matthias,Verstappen,Red Bull,0,0,6,6,1,NA,NA,TRUE,TRUE
+12,Spa,Belgian Grand Prix,Ines,Albon,Williams,7,0,0,7,14,3,-3,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Ines,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+12,Spa,Belgian Grand Prix,Ines,Ricciardo,AlphaTauri,9,0,0,9,16,1,-1,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Ines,Hamilton,Mercedes,11,0,0,11,4,0,0,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Ines,Verstappen,Red Bull,0,0,6,6,1,NA,NA,TRUE,TRUE
+12,Spa,Belgian Grand Prix,Bart,Albon,Williams,8,0,0,8,14,2,-2,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Bart,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+12,Spa,Belgian Grand Prix,Bart,Ricciardo,AlphaTauri,11,0,0,11,16,0,0,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Bart,Hamilton,Mercedes,8,0,0,8,4,2,2,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Bart,Perez,Red Bull,0,0,0,0,2,NA,NA,FALSE,TRUE
+12,Spa,Belgian Grand Prix,Filip,Albon,Williams,7,0,0,7,14,3,-3,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Filip,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+12,Spa,Belgian Grand Prix,Filip,Ricciardo,AlphaTauri,6,0,0,6,16,4,-4,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Filip,Hamilton,Mercedes,9,0,0,9,4,1,1,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Filip,Verstappen,Red Bull,0,0,6,6,1,NA,NA,TRUE,TRUE
+12,Spa,Belgian Grand Prix,Esmee,Albon,Williams,11,0,0,11,14,0,0,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Esmee,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+12,Spa,Belgian Grand Prix,Esmee,Ricciardo,AlphaTauri,9,0,0,9,16,1,-1,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Esmee,Hamilton,Mercedes,9,0,0,9,4,1,-1,FALSE,FALSE
+12,Spa,Belgian Grand Prix,Esmee,Verstappen,Red Bull,0,0,6,6,1,NA,NA,TRUE,TRUE
+13,Zandvoort,Dutch Grand Prix,Jonas,Gasly,Alpine,1,0,0,1,3,9,9,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Jonas,Sargeant,Williams,9,0,0,9,20,1,-1,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Jonas,Stroll,Aston Martin,7,0,0,7,11,3,-3,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Jonas,Tsunoda,AlphaTauri,5,5,0,10,15,5,-5,TRUE,FALSE
+13,Zandvoort,Dutch Grand Prix,Jonas,Perez,Red Bull,0,0,0,0,4,NA,NA,FALSE,TRUE
+13,Zandvoort,Dutch Grand Prix,Thibaut,Gasly,Alpine,2,0,0,2,3,8,8,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Thibaut,Sargeant,Williams,8,0,0,8,20,2,-2,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Thibaut,Stroll,Aston Martin,9,0,0,9,11,1,-1,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Thibaut,Tsunoda,AlphaTauri,11,11,0,22,15,0,0,TRUE,FALSE
+13,Zandvoort,Dutch Grand Prix,Thibaut,Perez,Red Bull,0,0,0,0,4,NA,NA,FALSE,TRUE
+13,Zandvoort,Dutch Grand Prix,Illias,Gasly,Alpine,1,0,0,1,3,9,9,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Illias,Sargeant,Williams,7,0,0,7,20,3,-3,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Illias,Stroll,Aston Martin,6,0,0,6,11,4,-4,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Illias,Tsunoda,AlphaTauri,6,6,0,12,15,4,-4,TRUE,FALSE
+13,Zandvoort,Dutch Grand Prix,Illias,Albon,Williams,0,0,0,0,8,NA,NA,FALSE,TRUE
+13,Zandvoort,Dutch Grand Prix,Margot,Gasly,Alpine,0,0,0,0,3,10,10,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Margot,Sargeant,Williams,5,0,0,5,20,5,-5,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Margot,Stroll,Aston Martin,5,5,0,10,11,5,-5,TRUE,FALSE
+13,Zandvoort,Dutch Grand Prix,Margot,Tsunoda,AlphaTauri,5,0,0,5,15,5,-5,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Margot,Perez,Red Bull,0,0,0,0,4,NA,NA,FALSE,TRUE
+13,Zandvoort,Dutch Grand Prix,Bram,Gasly,Alpine,7,0,0,7,3,3,3,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Bram,Sargeant,Williams,6,0,0,6,20,4,-4,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Bram,Stroll,Aston Martin,6,0,0,6,11,4,-4,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Bram,Tsunoda,AlphaTauri,3,3,0,6,15,7,-7,TRUE,FALSE
+13,Zandvoort,Dutch Grand Prix,Bram,Norris,McLaren,0,0,0,0,7,NA,NA,FALSE,TRUE
+13,Zandvoort,Dutch Grand Prix,Bart,Gasly,Alpine,1,0,0,1,3,9,9,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Bart,Sargeant,Williams,7,7,0,14,20,3,-3,TRUE,FALSE
+13,Zandvoort,Dutch Grand Prix,Bart,Stroll,Aston Martin,9,0,0,9,11,1,-1,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Bart,Tsunoda,AlphaTauri,9,0,0,9,15,1,-1,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Bart,Perez,Red Bull,0,0,0,0,4,NA,NA,FALSE,TRUE
+13,Zandvoort,Dutch Grand Prix,Eva,Gasly,Alpine,0,0,0,0,3,11,11,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Eva,Sargeant,Williams,7,7,0,14,20,3,-3,TRUE,FALSE
+13,Zandvoort,Dutch Grand Prix,Eva,Stroll,Aston Martin,6,0,0,6,11,4,4,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Eva,Tsunoda,AlphaTauri,9,0,0,9,15,1,1,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Eva,Perez,Red Bull,0,0,0,0,4,NA,NA,FALSE,TRUE
+13,Zandvoort,Dutch Grand Prix,Thijs,Gasly,Alpine,5,5,0,10,3,5,5,TRUE,FALSE
+13,Zandvoort,Dutch Grand Prix,Thijs,Sargeant,Williams,8,0,0,8,20,2,-2,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Thijs,Stroll,Aston Martin,8,0,0,8,11,2,-2,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Thijs,Tsunoda,AlphaTauri,9,0,0,9,15,1,-1,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Thijs,Sainz,Ferrari,0,0,0,0,5,NA,NA,FALSE,TRUE
+13,Zandvoort,Dutch Grand Prix,Matthias,Gasly,Alpine,2,0,0,2,3,8,8,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Matthias,Sargeant,Williams,8,8,0,16,20,2,-2,TRUE,FALSE
+13,Zandvoort,Dutch Grand Prix,Matthias,Stroll,Aston Martin,8,0,0,8,11,2,-2,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Matthias,Tsunoda,AlphaTauri,9,0,0,9,15,1,-1,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Matthias,Russell,Mercedes,0,0,0,0,17,NA,NA,FALSE,TRUE
+13,Zandvoort,Dutch Grand Prix,Ines,Gasly,Alpine,3,0,0,3,3,7,7,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Ines,Sargeant,Williams,7,7,0,14,20,3,-3,TRUE,FALSE
+13,Zandvoort,Dutch Grand Prix,Ines,Stroll,Aston Martin,8,0,0,8,11,2,-2,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Ines,Tsunoda,AlphaTauri,9,0,0,9,15,1,-1,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Ines,Stroll,Aston Martin,0,0,0,0,11,NA,NA,FALSE,TRUE
+13,Zandvoort,Dutch Grand Prix,Filip,Gasly,Alpine,3,0,0,3,3,7,7,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Filip,Sargeant,Williams,6,6,0,12,20,4,-4,TRUE,FALSE
+13,Zandvoort,Dutch Grand Prix,Filip,Stroll,Aston Martin,8,0,0,8,11,2,-2,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Filip,Tsunoda,AlphaTauri,8,0,0,8,15,2,-2,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Filip,Russell,Mercedes,0,0,0,0,17,NA,NA,FALSE,TRUE
+13,Zandvoort,Dutch Grand Prix,Esmee,Gasly,Alpine,1,0,0,1,3,9,9,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Esmee,Sargeant,Williams,7,0,0,7,20,3,-3,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Esmee,Stroll,Aston Martin,9,9,0,18,11,1,-1,TRUE,FALSE
+13,Zandvoort,Dutch Grand Prix,Esmee,Tsunoda,AlphaTauri,9,0,0,9,15,1,-1,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Esmee,Perez,Red Bull,0,0,0,0,4,NA,NA,FALSE,TRUE
+13,Zandvoort,Dutch Grand Prix,Dylan,Gasly,Alpine,4,4,0,8,3,6,6,TRUE,FALSE
+13,Zandvoort,Dutch Grand Prix,Dylan,Sargeant,Williams,7,0,0,7,20,3,-3,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Dylan,Stroll,Aston Martin,9,0,0,9,11,1,-1,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Dylan,Tsunoda,AlphaTauri,6,0,0,6,15,4,-4,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Dylan,Gasly,Alpine,0,0,7,7,3,NA,NA,TRUE,TRUE
+13,Zandvoort,Dutch Grand Prix,Ester,Gasly,Alpine,2,0,0,2,3,8,8,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Ester,Sargeant,Williams,5,0,0,5,20,5,-5,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Ester,Stroll,Aston Martin,8,8,0,16,11,2,-2,TRUE,FALSE
+13,Zandvoort,Dutch Grand Prix,Ester,Tsunoda,AlphaTauri,8,0,0,8,15,2,-2,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Ester,Stroll,Aston Martin,0,0,0,0,11,NA,NA,TRUE,TRUE
+13,Zandvoort,Dutch Grand Prix,Mattijs,Gasly,Alpine,0,0,0,0,3,13,13,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Mattijs,Sargeant,Williams,8,8,0,16,20,2,-2,TRUE,FALSE
+13,Zandvoort,Dutch Grand Prix,Mattijs,Stroll,Aston Martin,9,0,0,9,11,1,1,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Mattijs,Tsunoda,AlphaTauri,9,0,0,9,15,1,1,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Mattijs,Perez,Red Bull,0,0,0,0,4,NA,NA,FALSE,TRUE
+13,Zandvoort,Dutch Grand Prix,Robbert,Gasly,Alpine,2,0,0,2,3,8,8,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Robbert,Sargeant,Williams,7,7,0,14,20,3,-3,TRUE,FALSE
+13,Zandvoort,Dutch Grand Prix,Robbert,Stroll,Aston Martin,8,0,0,8,11,2,-2,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Robbert,Tsunoda,AlphaTauri,5,0,0,5,15,5,-5,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Robbert,Stroll,Aston Martin,0,0,0,0,11,NA,NA,FALSE,TRUE
+13,Zandvoort,Dutch Grand Prix,Notus,Gasly,Alpine,2,0,0,2,3,8,8,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Notus,Sargeant,Williams,8,8,0,16,20,2,-2,TRUE,FALSE
+13,Zandvoort,Dutch Grand Prix,Notus,Stroll,Aston Martin,9,0,0,9,11,1,-1,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Notus,Tsunoda,AlphaTauri,8,0,0,8,15,2,-2,FALSE,FALSE
+13,Zandvoort,Dutch Grand Prix,Notus,Perez,Red Bull,0,0,0,0,4,NA,NA,FALSE,TRUE
+14,Monza,Italian Grand Prix,Bram,Piastri,McLaren,6,0,0,6,12,4,-4,FALSE,FALSE
+14,Monza,Italian Grand Prix,Bram,Sainz,Ferrari,8,8,0,16,3,2,-2,TRUE,FALSE
+14,Monza,Italian Grand Prix,Bram,Magnussen,Haas,6,0,0,6,18,4,-4,FALSE,FALSE
+14,Monza,Italian Grand Prix,Bram,Bottas,Alfa Romeo,4,0,0,4,10,6,6,FALSE,FALSE
+14,Monza,Italian Grand Prix,Bram,Ocon,Alpine,0,0,0,0,19,NA,NA,FALSE,TRUE
+14,Monza,Italian Grand Prix,Illias,Piastri,McLaren,7,0,0,7,12,3,3,FALSE,FALSE
+14,Monza,Italian Grand Prix,Illias,Sainz,Ferrari,6,6,0,12,3,4,4,TRUE,FALSE
+14,Monza,Italian Grand Prix,Illias,Magnussen,Haas,4,0,0,4,18,6,-6,FALSE,FALSE
+14,Monza,Italian Grand Prix,Illias,Bottas,Alfa Romeo,9,0,0,9,10,1,1,FALSE,FALSE
+14,Monza,Italian Grand Prix,Illias,Gasly,Alpine,0,0,0,0,15,NA,NA,FALSE,TRUE
+14,Monza,Italian Grand Prix,Bart,Piastri,McLaren,2,2,0,4,12,8,-8,TRUE,FALSE
+14,Monza,Italian Grand Prix,Bart,Sainz,Ferrari,8,0,0,8,3,2,2,FALSE,FALSE
+14,Monza,Italian Grand Prix,Bart,Magnussen,Haas,6,0,0,6,18,4,-4,FALSE,FALSE
+14,Monza,Italian Grand Prix,Bart,Bottas,Alfa Romeo,5,0,0,5,10,5,5,FALSE,FALSE
+14,Monza,Italian Grand Prix,Bart,Perez,Red Bull,0,0,5,5,2,NA,NA,FALSE,TRUE
+14,Monza,Italian Grand Prix,Thibaut,Piastri,McLaren,4,0,0,4,12,6,-6,FALSE,FALSE
+14,Monza,Italian Grand Prix,Thibaut,Sainz,Ferrari,8,0,0,8,3,2,2,FALSE,FALSE
+14,Monza,Italian Grand Prix,Thibaut,Magnussen,Haas,8,0,0,8,18,2,-2,FALSE,FALSE
+14,Monza,Italian Grand Prix,Thibaut,Bottas,Alfa Romeo,5,5,0,10,10,5,5,TRUE,FALSE
+14,Monza,Italian Grand Prix,Thibaut,Perez,Red Bull,0,0,5,5,2,NA,NA,FALSE,TRUE
+14,Monza,Italian Grand Prix,Jonas,Piastri,McLaren,3,0,0,3,12,7,-7,FALSE,FALSE
+14,Monza,Italian Grand Prix,Jonas,Sainz,Ferrari,11,11,0,22,3,0,0,TRUE,FALSE
+14,Monza,Italian Grand Prix,Jonas,Magnussen,Haas,6,0,0,6,18,4,-4,FALSE,FALSE
+14,Monza,Italian Grand Prix,Jonas,Bottas,Alfa Romeo,7,0,0,7,10,3,3,FALSE,FALSE
+14,Monza,Italian Grand Prix,Jonas,Leclerc,Ferrari,0,0,0,0,4,NA,NA,FALSE,TRUE
+14,Monza,Italian Grand Prix,Notus,Piastri,McLaren,7,0,0,7,12,3,-3,FALSE,FALSE
+14,Monza,Italian Grand Prix,Notus,Sainz,Ferrari,8,0,0,8,3,2,2,FALSE,FALSE
+14,Monza,Italian Grand Prix,Notus,Magnussen,Haas,8,0,0,8,18,2,-2,FALSE,FALSE
+14,Monza,Italian Grand Prix,Notus,Bottas,Alfa Romeo,6,6,0,12,10,4,4,TRUE,FALSE
+14,Monza,Italian Grand Prix,Notus,Gasly,Alpine,0,0,0,0,15,NA,NA,FALSE,TRUE
+14,Monza,Italian Grand Prix,Thijs,Piastri,McLaren,5,0,0,5,12,5,-5,FALSE,FALSE
+14,Monza,Italian Grand Prix,Thijs,Sainz,Ferrari,7,0,0,7,3,3,3,FALSE,FALSE
+14,Monza,Italian Grand Prix,Thijs,Magnussen,Haas,7,7,0,14,18,3,-3,TRUE,FALSE
+14,Monza,Italian Grand Prix,Thijs,Bottas,Alfa Romeo,3,0,0,3,10,7,7,FALSE,FALSE
+14,Monza,Italian Grand Prix,Thijs,Russell,Mercedes,0,0,0,0,5,NA,NA,FALSE,TRUE
+14,Monza,Italian Grand Prix,Margot,Piastri,McLaren,4,0,0,4,12,6,-6,FALSE,FALSE
+14,Monza,Italian Grand Prix,Margot,Sainz,Ferrari,6,6,0,12,3,4,4,TRUE,FALSE
+14,Monza,Italian Grand Prix,Margot,Magnussen,Haas,5,0,0,5,18,5,-5,FALSE,FALSE
+14,Monza,Italian Grand Prix,Margot,Bottas,Alfa Romeo,11,0,0,11,10,0,0,FALSE,FALSE
+14,Monza,Italian Grand Prix,Margot,Gasly,Alpine,0,0,0,0,15,NA,NA,FALSE,TRUE
+14,Monza,Italian Grand Prix,Robbert,Piastri,McLaren,4,0,0,4,12,6,-6,FALSE,FALSE
+14,Monza,Italian Grand Prix,Robbert,Sainz,Ferrari,5,0,0,5,3,5,5,FALSE,FALSE
+14,Monza,Italian Grand Prix,Robbert,Magnussen,Haas,9,9,0,18,18,1,-1,TRUE,FALSE
+14,Monza,Italian Grand Prix,Robbert,Bottas,Alfa Romeo,8,0,0,8,10,2,2,FALSE,FALSE
+14,Monza,Italian Grand Prix,Robbert,Gasly,Alpine,0,0,0,0,15,NA,NA,FALSE,TRUE
+14,Monza,Italian Grand Prix,Saran,Piastri,McLaren,5,0,0,5,12,5,-5,FALSE,FALSE
+14,Monza,Italian Grand Prix,Saran,Sainz,Ferrari,11,11,0,22,3,0,0,TRUE,FALSE
+14,Monza,Italian Grand Prix,Saran,Magnussen,Haas,3,0,0,3,18,7,-7,FALSE,FALSE
+14,Monza,Italian Grand Prix,Saran,Bottas,Alfa Romeo,11,0,0,11,10,0,0,FALSE,FALSE
+14,Monza,Italian Grand Prix,Saran,Tsunoda,AlphaTauri,0,0,0,0,20,NA,NA,FALSE,TRUE
+14,Monza,Italian Grand Prix,Matthias,Piastri,McLaren,4,0,0,4,12,6,-6,FALSE,FALSE
+14,Monza,Italian Grand Prix,Matthias,Sainz,Ferrari,8,0,0,8,3,2,2,FALSE,FALSE
+14,Monza,Italian Grand Prix,Matthias,Magnussen,Haas,8,8,0,16,18,2,-2,TRUE,FALSE
+14,Monza,Italian Grand Prix,Matthias,Bottas,Alfa Romeo,7,0,0,7,10,3,3,FALSE,FALSE
+14,Monza,Italian Grand Prix,Matthias,Perez,Red Bull,0,0,5,5,2,NA,NA,FALSE,TRUE
+14,Monza,Italian Grand Prix,Ines,Piastri,McLaren,4,0,0,4,12,6,-6,FALSE,FALSE
+14,Monza,Italian Grand Prix,Ines,Sainz,Ferrari,8,0,0,8,3,2,2,FALSE,FALSE
+14,Monza,Italian Grand Prix,Ines,Magnussen,Haas,8,8,0,16,18,2,-2,TRUE,FALSE
+14,Monza,Italian Grand Prix,Ines,Bottas,Alfa Romeo,7,0,0,7,10,3,3,FALSE,FALSE
+14,Monza,Italian Grand Prix,Ines,Perez,Red Bull,0,0,5,5,2,NA,NA,FALSE,TRUE
+14,Monza,Italian Grand Prix,Mattijs,Piastri,McLaren,4,0,0,4,12,6,-6,FALSE,FALSE
+14,Monza,Italian Grand Prix,Mattijs,Sainz,Ferrari,11,0,0,11,3,0,0,FALSE,FALSE
+14,Monza,Italian Grand Prix,Mattijs,Magnussen,Haas,9,9,0,18,18,1,-1,TRUE,FALSE
+14,Monza,Italian Grand Prix,Mattijs,Bottas,Alfa Romeo,5,0,0,5,10,5,5,FALSE,FALSE
+14,Monza,Italian Grand Prix,Mattijs,Perez,Red Bull,0,0,5,5,2,NA,NA,FALSE,TRUE
+14,Monza,Italian Grand Prix,Filip,Piastri,McLaren,5,0,0,5,12,5,-5,FALSE,FALSE
+14,Monza,Italian Grand Prix,Filip,Sainz,Ferrari,8,8,0,16,3,2,2,TRUE,FALSE
+14,Monza,Italian Grand Prix,Filip,Magnussen,Haas,8,0,0,8,18,2,-2,FALSE,FALSE
+14,Monza,Italian Grand Prix,Filip,Bottas,Alfa Romeo,8,0,0,8,10,2,2,FALSE,FALSE
+14,Monza,Italian Grand Prix,Filip,Perez,Red Bull,0,0,5,5,2,NA,NA,FALSE,TRUE
+14,Monza,Italian Grand Prix,Dylan,Piastri,McLaren,6,0,0,6,12,4,-4,FALSE,FALSE
+14,Monza,Italian Grand Prix,Dylan,Sainz,Ferrari,7,0,0,7,3,3,3,FALSE,FALSE
+14,Monza,Italian Grand Prix,Dylan,Magnussen,Haas,7,0,0,7,18,3,-3,FALSE,FALSE
+14,Monza,Italian Grand Prix,Dylan,Bottas,Alfa Romeo,8,8,0,16,10,2,2,TRUE,FALSE
+14,Monza,Italian Grand Prix,Dylan,Gasly,Alpine,0,0,0,0,15,NA,NA,FALSE,TRUE
+14,Monza,Italian Grand Prix,Esmee,Piastri,McLaren,8,0,0,8,12,2,-2,FALSE,FALSE
+14,Monza,Italian Grand Prix,Esmee,Sainz,Ferrari,7,7,0,14,3,3,3,TRUE,FALSE
+14,Monza,Italian Grand Prix,Esmee,Magnussen,Haas,8,0,0,8,18,2,-2,FALSE,FALSE
+14,Monza,Italian Grand Prix,Esmee,Bottas,Alfa Romeo,5,0,0,5,10,5,5,FALSE,FALSE
+14,Monza,Italian Grand Prix,Esmee,Zhou,Alfa Romeo,0,0,0,0,14,NA,NA,FALSE,TRUE
+14,Monza,Italian Grand Prix,Ester,Piastri,McLaren,6,0,0,6,12,4,-4,FALSE,FALSE
+14,Monza,Italian Grand Prix,Ester,Sainz,Ferrari,11,11,0,22,3,0,0,TRUE,FALSE
+14,Monza,Italian Grand Prix,Ester,Magnussen,Haas,6,0,0,6,18,4,-4,FALSE,FALSE
+14,Monza,Italian Grand Prix,Ester,Bottas,Alfa Romeo,4,0,0,4,10,6,6,FALSE,FALSE
+14,Monza,Italian Grand Prix,Ester,Perez,Red Bull,0,0,5,5,2,NA,NA,FALSE,TRUE
+15,Marina Bay,Singapore Grand Prix,Thibaut,Ocon,Alpine,1,0,0,1,18,9,-9,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Thibaut,Hulkenberg,Haas,7,7,0,14,13,3,3,TRUE,FALSE
+15,Marina Bay,Singapore Grand Prix,Thibaut,Norris,McLaren,5,0,0,5,2,5,5,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Thibaut,Leclerc,Ferrari,9,0,0,9,4,1,-1,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Thibaut,Perez,Red Bull,0,0,3,3,8,NA,NA,FALSE,TRUE
+15,Marina Bay,Singapore Grand Prix,Thijs,Ocon,Alpine,4,4,0,8,18,6,-6,TRUE,FALSE
+15,Marina Bay,Singapore Grand Prix,Thijs,Hulkenberg,Haas,11,0,0,11,13,0,0,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Thijs,Norris,McLaren,6,0,0,6,2,4,4,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Thijs,Leclerc,Ferrari,11,0,0,11,4,0,0,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Thijs,Hamilton,Mercedes,0,0,0,0,3,NA,NA,FALSE,TRUE
+15,Marina Bay,Singapore Grand Prix,Jonas,Ocon,Alpine,3,0,0,3,18,7,-7,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Jonas,Hulkenberg,Haas,9,0,0,9,13,1,1,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Jonas,Norris,McLaren,6,0,0,6,2,4,4,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Jonas,Leclerc,Ferrari,8,8,0,16,4,2,-2,TRUE,FALSE
+15,Marina Bay,Singapore Grand Prix,Jonas,Perez,Red Bull,0,0,3,3,8,NA,NA,FALSE,TRUE
+15,Marina Bay,Singapore Grand Prix,Saran,Ocon,Alpine,1,0,0,1,18,9,-9,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Saran,Hulkenberg,Haas,3,0,0,3,13,7,-7,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Saran,Norris,McLaren,7,7,0,14,2,3,3,TRUE,FALSE
+15,Marina Bay,Singapore Grand Prix,Saran,Leclerc,Ferrari,9,0,0,9,4,1,-1,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Saran,Tsunoda,AlphaTauri,0,0,0,0,19,NA,NA,FALSE,TRUE
+15,Marina Bay,Singapore Grand Prix,Dylan,Ocon,Alpine,0,0,0,0,18,10,-10,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Dylan,Hulkenberg,Haas,8,0,0,8,13,2,2,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Dylan,Norris,McLaren,9,0,0,9,2,1,1,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Dylan,Leclerc,Ferrari,9,9,0,18,4,1,1,TRUE,FALSE
+15,Marina Bay,Singapore Grand Prix,Dylan,Perez,Red Bull,0,0,3,3,8,NA,NA,FALSE,TRUE
+15,Marina Bay,Singapore Grand Prix,Margot,Ocon,Alpine,5,0,0,5,18,5,-5,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Margot,Hulkenberg,Haas,7,0,0,7,13,3,-3,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Margot,Norris,McLaren,8,0,0,8,2,2,2,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Margot,Leclerc,Ferrari,9,9,0,18,4,1,-1,TRUE,FALSE
+15,Marina Bay,Singapore Grand Prix,Margot,Perez,Red Bull,0,0,3,3,8,NA,NA,FALSE,TRUE
+15,Marina Bay,Singapore Grand Prix,Illias,Ocon,Alpine,7,0,0,7,18,3,-3,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Illias,Hulkenberg,Haas,9,0,0,9,13,1,-1,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Illias,Norris,McLaren,9,9,0,18,2,1,1,TRUE,FALSE
+15,Marina Bay,Singapore Grand Prix,Illias,Leclerc,Ferrari,11,0,0,11,4,0,0,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Illias,Tsunoda,AlphaTauri,0,0,0,0,19,NA,NA,FALSE,TRUE
+15,Marina Bay,Singapore Grand Prix,Bram,Ocon,Alpine,7,0,0,7,18,3,-3,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Bram,Hulkenberg,Haas,5,0,0,5,13,5,5,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Bram,Norris,McLaren,4,0,0,4,2,6,6,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Bram,Leclerc,Ferrari,8,8,0,16,4,2,2,TRUE,FALSE
+15,Marina Bay,Singapore Grand Prix,Bram,Alonso,Aston Martin,0,0,0,0,15,NA,NA,FALSE,TRUE
+15,Marina Bay,Singapore Grand Prix,Bart,Ocon,Alpine,4,0,0,4,18,6,-6,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Bart,Hulkenberg,Haas,7,0,0,7,13,3,3,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Bart,Norris,McLaren,5,0,0,5,2,5,5,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Bart,Leclerc,Ferrari,8,8,0,16,4,2,-2,TRUE,FALSE
+15,Marina Bay,Singapore Grand Prix,Bart,Albon,Williams,0,0,0,0,11,NA,NA,FALSE,TRUE
+15,Marina Bay,Singapore Grand Prix,Mattijs,Ocon,Alpine,0,0,0,0,18,10,-10,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Mattijs,Hulkenberg,Haas,5,5,0,10,13,5,5,TRUE,FALSE
+15,Marina Bay,Singapore Grand Prix,Mattijs,Norris,McLaren,8,0,0,8,2,2,2,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Mattijs,Leclerc,Ferrari,9,0,0,9,4,1,-1,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Mattijs,Perez,Red Bull,0,0,3,3,8,NA,NA,FALSE,TRUE
+15,Marina Bay,Singapore Grand Prix,Matthias,Ocon,Alpine,5,0,0,5,18,5,-5,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Matthias,Hulkenberg,Haas,6,6,0,12,13,4,4,TRUE,FALSE
+15,Marina Bay,Singapore Grand Prix,Matthias,Norris,McLaren,7,0,0,7,2,3,3,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Matthias,Leclerc,Ferrari,11,0,0,11,4,0,0,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Matthias,Perez,Red Bull,0,0,3,3,8,NA,NA,FALSE,TRUE
+15,Marina Bay,Singapore Grand Prix,Ines,Ocon,Alpine,7,0,0,7,18,3,-3,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Ines,Hulkenberg,Haas,6,6,0,12,13,4,4,TRUE,FALSE
+15,Marina Bay,Singapore Grand Prix,Ines,Norris,McLaren,8,0,0,8,2,2,2,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Ines,Leclerc,Ferrari,9,0,0,9,4,1,1,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Ines,Perez,Red Bull,0,0,3,3,8,NA,NA,FALSE,TRUE
+15,Marina Bay,Singapore Grand Prix,Robbert,Ocon,Alpine,2,0,0,2,18,8,-8,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Robbert,Hulkenberg,Haas,11,11,0,22,13,0,0,TRUE,FALSE
+15,Marina Bay,Singapore Grand Prix,Robbert,Norris,McLaren,8,0,0,8,2,2,2,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Robbert,Leclerc,Ferrari,9,0,0,9,4,1,1,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Robbert,Tsunoda,AlphaTauri,0,0,0,0,19,NA,NA,FALSE,TRUE
+15,Marina Bay,Singapore Grand Prix,Notus,Ocon,Alpine,2,0,0,2,18,8,-8,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Notus,Hulkenberg,Haas,6,6,0,12,13,4,4,TRUE,FALSE
+15,Marina Bay,Singapore Grand Prix,Notus,Norris,McLaren,5,0,0,5,2,5,5,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Notus,Leclerc,Ferrari,9,0,0,9,4,1,-1,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Notus,Perez,Red Bull,0,0,3,3,8,NA,NA,FALSE,TRUE
+15,Marina Bay,Singapore Grand Prix,Eva,Ocon,Alpine,1,0,0,1,18,9,-9,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Eva,Hulkenberg,Haas,8,0,0,8,13,2,-2,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Eva,Norris,McLaren,4,0,0,4,2,6,6,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Eva,Leclerc,Ferrari,9,9,0,18,4,1,1,TRUE,FALSE
+15,Marina Bay,Singapore Grand Prix,Eva,Perez,Red Bull,0,0,3,3,8,NA,NA,FALSE,TRUE
+15,Marina Bay,Singapore Grand Prix,Filip,Ocon,Alpine,1,0,0,1,18,9,-9,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Filip,Hulkenberg,Haas,7,0,0,7,13,3,3,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Filip,Norris,McLaren,6,0,0,6,2,4,4,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Filip,Leclerc,Ferrari,11,11,0,22,4,0,0,TRUE,FALSE
+15,Marina Bay,Singapore Grand Prix,Filip,Perez,Red Bull,0,0,3,3,8,NA,NA,FALSE,TRUE
+15,Marina Bay,Singapore Grand Prix,Ester,Ocon,Alpine,5,0,0,5,18,5,-5,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Ester,Hulkenberg,Haas,6,0,0,6,13,4,4,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Ester,Norris,McLaren,7,0,0,7,2,3,3,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Ester,Leclerc,Ferrari,9,9,0,18,4,1,-1,TRUE,FALSE
+15,Marina Bay,Singapore Grand Prix,Ester,Verstappen,Red Bull,0,0,5,5,5,NA,NA,FALSE,TRUE
+15,Marina Bay,Singapore Grand Prix,Esmee,Ocon,Alpine,5,0,0,5,18,5,-5,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Esmee,Hulkenberg,Haas,7,0,0,7,13,3,3,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Esmee,Norris,McLaren,7,7,0,14,2,3,3,TRUE,FALSE
+15,Marina Bay,Singapore Grand Prix,Esmee,Leclerc,Ferrari,9,0,0,9,4,1,1,FALSE,FALSE
+15,Marina Bay,Singapore Grand Prix,Esmee,Perez,Red Bull,0,0,3,3,8,NA,NA,FALSE,TRUE
+16,Suzuka,Japanese Grand Prix,Bram,Hamilton,Mercedes,8,0,0,8,5,2,-2,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Bram,Alonso,Aston Martin,8,0,0,8,8,2,-2,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Bram,Sainz,Ferrari,8,0,0,8,6,2,-2,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Bram,Albon,Williams,7,7,0,14,16,3,-3,TRUE,FALSE
+16,Suzuka,Japanese Grand Prix,Bram,Gasly,Alpine,0,0,0,0,10,NA,NA,FALSE,TRUE
+16,Suzuka,Japanese Grand Prix,Saran,Hamilton,Mercedes,9,0,0,9,5,1,-1,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Saran,Alonso,Aston Martin,5,5,0,10,8,5,-5,TRUE,FALSE
+16,Suzuka,Japanese Grand Prix,Saran,Sainz,Ferrari,9,0,0,9,6,1,-1,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Saran,Albon,Williams,3,0,0,3,16,7,-7,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Saran,Hamilton,Mercedes,0,0,3,3,5,NA,NA,FALSE,TRUE
+16,Suzuka,Japanese Grand Prix,Thibaut,Hamilton,Mercedes,9,9,0,18,5,1,-1,TRUE,FALSE
+16,Suzuka,Japanese Grand Prix,Thibaut,Alonso,Aston Martin,9,0,0,9,8,1,-1,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Thibaut,Sainz,Ferrari,9,0,0,9,6,1,-1,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Thibaut,Albon,Williams,6,0,0,6,16,4,-4,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Thibaut,Perez,Red Bull,0,0,0,0,19,NA,NA,FALSE,TRUE
+16,Suzuka,Japanese Grand Prix,Matthias,Hamilton,Mercedes,9,0,0,9,5,1,1,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Matthias,Alonso,Aston Martin,11,0,0,11,8,0,0,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Matthias,Sainz,Ferrari,8,8,0,16,6,2,-2,TRUE,FALSE
+16,Suzuka,Japanese Grand Prix,Matthias,Albon,Williams,4,0,0,4,16,6,-6,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Matthias,Perez,Red Bull,0,0,0,0,19,NA,NA,FALSE,TRUE
+16,Suzuka,Japanese Grand Prix,Bart,Hamilton,Mercedes,9,9,0,18,5,1,-1,TRUE,FALSE
+16,Suzuka,Japanese Grand Prix,Bart,Alonso,Aston Martin,11,0,0,11,8,0,0,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Bart,Sainz,Ferrari,7,0,0,7,6,3,-3,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Bart,Albon,Williams,6,0,0,6,16,4,-4,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Bart,Stroll,Aston Martin,0,0,0,0,18,NA,NA,FALSE,TRUE
+16,Suzuka,Japanese Grand Prix,Filip,Hamilton,Mercedes,11,11,0,22,5,0,0,TRUE,FALSE
+16,Suzuka,Japanese Grand Prix,Filip,Alonso,Aston Martin,11,0,0,11,8,0,0,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Filip,Sainz,Ferrari,8,0,0,8,6,2,-2,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Filip,Albon,Williams,3,0,0,3,16,7,-7,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Filip,Perez,Red Bull,0,0,0,0,19,NA,NA,FALSE,TRUE
+16,Suzuka,Japanese Grand Prix,Illias,Hamilton,Mercedes,8,8,0,16,5,2,-2,TRUE,FALSE
+16,Suzuka,Japanese Grand Prix,Illias,Alonso,Aston Martin,7,0,0,7,8,3,-3,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Illias,Sainz,Ferrari,8,0,0,8,6,2,-2,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Illias,Albon,Williams,3,0,0,3,16,7,-7,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Illias,Piastri,McLaren,0,0,0,0,3,NA,NA,FALSE,TRUE
+16,Suzuka,Japanese Grand Prix,Margot,Hamilton,Mercedes,9,0,0,9,5,1,-1,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Margot,Alonso,Aston Martin,6,6,0,12,8,4,-4,TRUE,FALSE
+16,Suzuka,Japanese Grand Prix,Margot,Sainz,Ferrari,8,0,0,8,6,2,-2,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Margot,Albon,Williams,2,0,0,2,16,8,-8,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Margot,Perez,Red Bull,0,0,0,0,19,NA,NA,FALSE,TRUE
+16,Suzuka,Japanese Grand Prix,Robbert,Hamilton,Mercedes,11,0,0,11,5,0,0,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Robbert,Alonso,Aston Martin,8,0,0,8,8,2,-2,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Robbert,Sainz,Ferrari,7,7,0,14,6,3,-3,TRUE,FALSE
+16,Suzuka,Japanese Grand Prix,Robbert,Albon,Williams,3,0,0,3,16,7,-7,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Robbert,Perez,Red Bull,0,0,0,0,19,NA,NA,FALSE,TRUE
+16,Suzuka,Japanese Grand Prix,Dylan,Hamilton,Mercedes,11,11,0,22,5,0,0,TRUE,FALSE
+16,Suzuka,Japanese Grand Prix,Dylan,Alonso,Aston Martin,8,0,0,8,8,2,-2,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Dylan,Sainz,Ferrari,8,0,0,8,6,2,-2,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Dylan,Albon,Williams,4,0,0,4,16,6,-6,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Dylan,Perez,Red Bull,0,0,0,0,19,NA,NA,FALSE,TRUE
+16,Suzuka,Japanese Grand Prix,Thijs,Hamilton,Mercedes,9,0,0,9,5,1,1,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Thijs,Alonso,Aston Martin,9,0,0,9,8,1,-1,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Thijs,Sainz,Ferrari,8,8,0,16,6,2,-2,TRUE,FALSE
+16,Suzuka,Japanese Grand Prix,Thijs,Albon,Williams,5,0,0,5,16,5,-5,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Thijs,Gasly,Alpine,0,0,0,0,10,NA,NA,FALSE,TRUE
+16,Suzuka,Japanese Grand Prix,Jonas,Hamilton,Mercedes,9,9,0,18,5,1,-1,TRUE,FALSE
+16,Suzuka,Japanese Grand Prix,Jonas,Alonso,Aston Martin,9,0,0,9,8,1,1,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Jonas,Sainz,Ferrari,7,0,0,7,6,3,-3,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Jonas,Albon,Williams,2,0,0,2,16,8,-8,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Jonas,Piastri,McLaren,0,0,0,0,3,NA,NA,FALSE,TRUE
+16,Suzuka,Japanese Grand Prix,Mattijs,Hamilton,Mercedes,11,11,0,22,5,0,0,TRUE,FALSE
+16,Suzuka,Japanese Grand Prix,Mattijs,Alonso,Aston Martin,9,0,0,9,8,1,-1,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Mattijs,Sainz,Ferrari,7,0,0,7,6,3,-3,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Mattijs,Albon,Williams,3,0,0,3,16,7,-7,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Mattijs,Perez,Red Bull,0,0,0,0,19,NA,NA,FALSE,TRUE
+16,Suzuka,Japanese Grand Prix,Notus,Hamilton,Mercedes,9,0,0,9,5,1,-1,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Notus,Alonso,Aston Martin,8,0,0,8,8,2,-2,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Notus,Sainz,Ferrari,7,7,0,14,6,3,-3,TRUE,FALSE
+16,Suzuka,Japanese Grand Prix,Notus,Albon,Williams,2,0,0,2,16,8,-8,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Notus,Perez,Red Bull,0,0,0,0,19,NA,NA,FALSE,TRUE
+16,Suzuka,Japanese Grand Prix,Ines,Hamilton,Mercedes,11,0,0,11,5,0,0,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Ines,Alonso,Aston Martin,9,0,0,9,8,1,-1,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Ines,Sainz,Ferrari,8,8,0,16,6,2,-2,TRUE,FALSE
+16,Suzuka,Japanese Grand Prix,Ines,Albon,Williams,5,0,0,5,16,5,-5,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Ines,Perez,Red Bull,0,0,0,0,19,NA,NA,FALSE,TRUE
+16,Suzuka,Japanese Grand Prix,Ester,Hamilton,Mercedes,11,11,0,22,5,0,0,TRUE,FALSE
+16,Suzuka,Japanese Grand Prix,Ester,Alonso,Aston Martin,5,0,0,5,8,5,-5,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Ester,Sainz,Ferrari,9,0,0,9,6,1,-1,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Ester,Albon,Williams,8,0,0,8,16,2,-2,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Ester,Perez,Red Bull,0,0,0,0,19,NA,NA,FALSE,TRUE
+16,Suzuka,Japanese Grand Prix,Esmee,Hamilton,Mercedes,9,9,0,18,5,1,1,TRUE,FALSE
+16,Suzuka,Japanese Grand Prix,Esmee,Alonso,Aston Martin,11,0,0,11,8,0,0,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Esmee,Sainz,Ferrari,9,0,0,9,6,1,-1,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Esmee,Albon,Williams,4,0,0,4,16,6,-6,FALSE,FALSE
+16,Suzuka,Japanese Grand Prix,Esmee,Perez,Red Bull,0,0,0,0,19,NA,NA,FALSE,TRUE
+17,Al Daayen,Qatar Grand Prix,Bram,Lawson,AlphaTauri,9,0,0,9,17,1,1,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Bram,Leclerc,Ferrari,8,8,0,16,5,2,-2,TRUE,FALSE
+17,Al Daayen,Qatar Grand Prix,Bram,Gasly,Alpine,5,0,0,5,12,5,-5,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Bram,Russell,Mercedes,9,0,0,9,4,1,1,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Bram,Hamilton,Mercedes,0,0,0,0,19,NA,NA,FALSE,TRUE
+17,Al Daayen,Qatar Grand Prix,Saran,Lawson,AlphaTauri,2,0,0,2,17,8,-8,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Saran,Leclerc,Ferrari,9,0,0,9,5,1,-1,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Saran,Gasly,Alpine,3,3,0,6,12,7,-7,TRUE,FALSE
+17,Al Daayen,Qatar Grand Prix,Saran,Russell,Mercedes,4,0,0,4,4,6,6,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Saran,Leclerc,Ferrari,0,0,0,0,5,NA,NA,FALSE,TRUE
+17,Al Daayen,Qatar Grand Prix,Thibaut,Lawson,AlphaTauri,5,0,0,5,17,5,-5,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Thibaut,Leclerc,Ferrari,11,0,0,11,5,0,0,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Thibaut,Gasly,Alpine,8,0,0,8,12,2,-2,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Thibaut,Russell,Mercedes,7,7,0,14,4,3,3,TRUE,FALSE
+17,Al Daayen,Qatar Grand Prix,Thibaut,Perez,Red Bull,0,0,6,6,10,NA,NA,FALSE,TRUE
+17,Al Daayen,Qatar Grand Prix,Jonas,Lawson,AlphaTauri,5,0,0,5,17,5,-5,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Jonas,Leclerc,Ferrari,9,9,0,18,5,1,1,TRUE,FALSE
+17,Al Daayen,Qatar Grand Prix,Jonas,Gasly,Alpine,7,0,0,7,12,3,-3,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Jonas,Russell,Mercedes,11,0,0,11,4,0,0,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Jonas,Ocon,Alpine,0,0,0,0,7,NA,NA,FALSE,TRUE
+17,Al Daayen,Qatar Grand Prix,Bart,Lawson,AlphaTauri,3,0,0,3,17,7,-7,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Bart,Leclerc,Ferrari,11,11,0,22,5,0,0,TRUE,FALSE
+17,Al Daayen,Qatar Grand Prix,Bart,Gasly,Alpine,11,0,0,11,12,0,0,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Bart,Russell,Mercedes,6,0,0,6,4,4,4,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Bart,Stroll,Aston Martin,0,0,4,4,11,NA,NA,FALSE,TRUE
+17,Al Daayen,Qatar Grand Prix,Dylan,Lawson,AlphaTauri,9,0,0,9,17,1,1,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Dylan,Leclerc,Ferrari,8,8,0,16,5,2,-2,TRUE,FALSE
+17,Al Daayen,Qatar Grand Prix,Dylan,Gasly,Alpine,7,0,0,7,12,3,-3,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Dylan,Russell,Mercedes,9,0,0,9,4,1,1,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Dylan,Perez,Red Bull,0,0,6,6,10,NA,NA,FALSE,TRUE
+17,Al Daayen,Qatar Grand Prix,Matthias,Lawson,AlphaTauri,7,0,0,7,17,3,-3,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Matthias,Leclerc,Ferrari,9,0,0,9,5,1,-1,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Matthias,Gasly,Alpine,11,0,0,11,12,0,0,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Matthias,Russell,Mercedes,8,8,0,16,4,2,2,TRUE,FALSE
+17,Al Daayen,Qatar Grand Prix,Matthias,Perez,Red Bull,0,0,6,6,10,NA,NA,FALSE,TRUE
+17,Al Daayen,Qatar Grand Prix,Thijs,Lawson,AlphaTauri,7,0,0,7,17,3,-3,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Thijs,Leclerc,Ferrari,8,8,0,16,5,2,-2,TRUE,FALSE
+17,Al Daayen,Qatar Grand Prix,Thijs,Gasly,Alpine,11,0,0,11,12,0,0,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Thijs,Russell,Mercedes,6,0,0,6,4,4,4,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Thijs,Hamilton,Mercedes,0,0,0,0,19,NA,NA,FALSE,TRUE
+17,Al Daayen,Qatar Grand Prix,Eva,Lawson,AlphaTauri,9,0,0,9,17,1,-1,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Eva,Leclerc,Ferrari,9,0,0,9,5,1,-1,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Eva,Gasly,Alpine,9,0,0,9,12,1,1,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Eva,Russell,Mercedes,9,9,0,18,4,1,-1,TRUE,FALSE
+17,Al Daayen,Qatar Grand Prix,Eva,Perez,Red Bull,0,0,6,6,10,NA,NA,FALSE,TRUE
+17,Al Daayen,Qatar Grand Prix,Ines,Lawson,AlphaTauri,5,0,0,5,17,5,-5,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Ines,Leclerc,Ferrari,9,9,0,18,5,1,-1,TRUE,FALSE
+17,Al Daayen,Qatar Grand Prix,Ines,Gasly,Alpine,9,0,0,9,12,1,-1,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Ines,Russell,Mercedes,8,0,0,8,4,2,2,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Ines,Perez,Red Bull,0,0,6,6,10,NA,NA,FALSE,TRUE
+17,Al Daayen,Qatar Grand Prix,Filip,Lawson,AlphaTauri,4,0,0,4,17,6,-6,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Filip,Leclerc,Ferrari,9,9,0,18,5,1,-1,TRUE,FALSE
+17,Al Daayen,Qatar Grand Prix,Filip,Gasly,Alpine,8,0,0,8,12,2,-2,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Filip,Russell,Mercedes,8,0,0,8,4,2,2,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Filip,Perez,Red Bull,0,0,6,6,10,NA,NA,FALSE,TRUE
+17,Al Daayen,Qatar Grand Prix,Mattijs,Lawson,AlphaTauri,8,8,0,16,17,2,2,TRUE,FALSE
+17,Al Daayen,Qatar Grand Prix,Mattijs,Leclerc,Ferrari,9,0,0,9,5,1,1,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Mattijs,Gasly,Alpine,6,0,0,6,12,4,4,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Mattijs,Russell,Mercedes,6,0,0,6,4,4,4,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Mattijs,Perez,Red Bull,0,0,6,6,10,NA,NA,FALSE,TRUE
+17,Al Daayen,Qatar Grand Prix,Robbert,Lawson,AlphaTauri,4,0,0,4,17,6,-6,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Robbert,Leclerc,Ferrari,9,0,0,9,5,1,-1,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Robbert,Gasly,Alpine,8,8,0,16,12,2,-2,TRUE,FALSE
+17,Al Daayen,Qatar Grand Prix,Robbert,Russell,Mercedes,7,0,0,7,4,3,3,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Robbert,Lawson,AlphaTauri,0,0,0,0,17,NA,NA,FALSE,TRUE
+17,Al Daayen,Qatar Grand Prix,Ester,Lawson,AlphaTauri,9,0,0,9,17,1,-1,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Ester,Leclerc,Ferrari,8,8,0,16,5,2,-2,TRUE,FALSE
+17,Al Daayen,Qatar Grand Prix,Ester,Gasly,Alpine,8,0,0,8,12,2,2,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Ester,Russell,Mercedes,7,0,0,7,4,3,3,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Ester,Hamilton,Mercedes,0,0,0,0,19,NA,NA,FALSE,TRUE
+17,Al Daayen,Qatar Grand Prix,Illias,Lawson,AlphaTauri,11,0,0,11,17,0,0,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Illias,Leclerc,Ferrari,11,11,0,22,5,0,0,TRUE,FALSE
+17,Al Daayen,Qatar Grand Prix,Illias,Gasly,Alpine,9,0,0,9,12,1,-1,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Illias,Russell,Mercedes,8,0,0,8,4,2,2,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Illias,Perez,Red Bull,0,0,6,6,10,NA,NA,FALSE,TRUE
+17,Al Daayen,Qatar Grand Prix,Margot,Lawson,AlphaTauri,7,0,0,7,17,3,-3,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Margot,Leclerc,Ferrari,9,9,0,18,5,1,-1,TRUE,FALSE
+17,Al Daayen,Qatar Grand Prix,Margot,Gasly,Alpine,7,0,0,7,12,3,-3,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Margot,Russell,Mercedes,7,0,0,7,4,3,3,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Margot,Alonso,Aston Martin,0,0,0,0,6,NA,NA,FALSE,TRUE
+17,Al Daayen,Qatar Grand Prix,Esmee,Lawson,AlphaTauri,6,0,0,6,17,4,-4,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Esmee,Leclerc,Ferrari,11,11,0,22,5,0,0,TRUE,FALSE
+17,Al Daayen,Qatar Grand Prix,Esmee,Gasly,Alpine,8,0,0,8,12,2,-2,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Esmee,Russell,Mercedes,7,0,0,7,4,3,3,FALSE,FALSE
+17,Al Daayen,Qatar Grand Prix,Esmee,Perez,Red Bull,0,0,6,6,10,NA,NA,FALSE,TRUE
+18,Austin,United States Grand Prix,Bram,Verstappen,Red Bull,6,6,0,12,1,4,4,TRUE,FALSE
+18,Austin,United States Grand Prix,Bram,Ocon,Alpine,7,0,0,7,18,3,-3,FALSE,FALSE
+18,Austin,United States Grand Prix,Bram,Stroll,Aston Martin,7,0,0,7,7,3,3,FALSE,FALSE
+18,Austin,United States Grand Prix,Bram,Norris,McLaren,8,0,0,8,2,2,2,FALSE,FALSE
+18,Austin,United States Grand Prix,Bram,Verstappen,Red Bull,0,0,0,0,1,NA,NA,TRUE,TRUE
+18,Austin,United States Grand Prix,Margot,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+18,Austin,United States Grand Prix,Margot,Ocon,Alpine,4,0,0,4,18,6,-6,FALSE,FALSE
+18,Austin,United States Grand Prix,Margot,Stroll,Aston Martin,11,0,0,11,7,0,0,FALSE,FALSE
+18,Austin,United States Grand Prix,Margot,Norris,McLaren,8,0,0,8,2,2,2,FALSE,FALSE
+18,Austin,United States Grand Prix,Margot,Sargeant,Williams,0,0,4,4,10,NA,NA,FALSE,TRUE
+18,Austin,United States Grand Prix,Illias,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+18,Austin,United States Grand Prix,Illias,Ocon,Alpine,5,0,0,5,18,5,-5,FALSE,FALSE
+18,Austin,United States Grand Prix,Illias,Stroll,Aston Martin,11,0,0,11,7,0,0,FALSE,FALSE
+18,Austin,United States Grand Prix,Illias,Norris,McLaren,9,0,0,9,2,1,1,FALSE,FALSE
+18,Austin,United States Grand Prix,Illias,Gasly,Alpine,0,0,0,0,6,NA,NA,FALSE,TRUE
+18,Austin,United States Grand Prix,Jonas,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+18,Austin,United States Grand Prix,Jonas,Ocon,Alpine,0,0,0,0,18,11,-11,FALSE,FALSE
+18,Austin,United States Grand Prix,Jonas,Stroll,Aston Martin,1,0,0,1,7,9,9,FALSE,FALSE
+18,Austin,United States Grand Prix,Jonas,Norris,McLaren,9,0,0,9,2,1,1,FALSE,FALSE
+18,Austin,United States Grand Prix,Jonas,Hulkenberg,Haas,0,0,6,6,11,NA,NA,FALSE,TRUE
+18,Austin,United States Grand Prix,Bart,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+18,Austin,United States Grand Prix,Bart,Ocon,Alpine,2,0,0,2,18,8,-8,FALSE,FALSE
+18,Austin,United States Grand Prix,Bart,Stroll,Aston Martin,2,0,0,2,7,8,8,FALSE,FALSE
+18,Austin,United States Grand Prix,Bart,Norris,McLaren,8,0,0,8,2,2,2,FALSE,FALSE
+18,Austin,United States Grand Prix,Bart,Bottas,Alfa Romeo,0,0,0,0,12,NA,NA,FALSE,TRUE
+18,Austin,United States Grand Prix,Dylan,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+18,Austin,United States Grand Prix,Dylan,Ocon,Alpine,0,0,0,0,18,10,-10,FALSE,FALSE
+18,Austin,United States Grand Prix,Dylan,Stroll,Aston Martin,5,0,0,5,7,5,5,FALSE,FALSE
+18,Austin,United States Grand Prix,Dylan,Norris,McLaren,11,0,0,11,2,0,0,FALSE,FALSE
+18,Austin,United States Grand Prix,Dylan,Perez,Red Bull,0,0,0,0,4,NA,NA,FALSE,TRUE
+18,Austin,United States Grand Prix,Mattijs,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+18,Austin,United States Grand Prix,Mattijs,Ocon,Alpine,0,0,0,0,18,10,-10,FALSE,FALSE
+18,Austin,United States Grand Prix,Mattijs,Stroll,Aston Martin,4,0,0,4,7,6,6,FALSE,FALSE
+18,Austin,United States Grand Prix,Mattijs,Norris,McLaren,9,0,0,9,2,1,1,FALSE,FALSE
+18,Austin,United States Grand Prix,Mattijs,Perez,Red Bull,0,0,0,0,4,NA,NA,FALSE,TRUE
+18,Austin,United States Grand Prix,Eva,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+18,Austin,United States Grand Prix,Eva,Ocon,Alpine,5,0,0,5,18,5,-5,FALSE,FALSE
+18,Austin,United States Grand Prix,Eva,Stroll,Aston Martin,3,0,0,3,7,7,7,FALSE,FALSE
+18,Austin,United States Grand Prix,Eva,Norris,McLaren,9,0,0,9,2,1,1,FALSE,FALSE
+18,Austin,United States Grand Prix,Eva,Perez,Red Bull,0,0,0,0,4,NA,NA,FALSE,TRUE
+18,Austin,United States Grand Prix,Thijs,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+18,Austin,United States Grand Prix,Thijs,Ocon,Alpine,1,0,0,1,18,9,-9,FALSE,FALSE
+18,Austin,United States Grand Prix,Thijs,Stroll,Aston Martin,6,0,0,6,7,4,4,FALSE,FALSE
+18,Austin,United States Grand Prix,Thijs,Norris,McLaren,9,0,0,9,2,1,1,FALSE,FALSE
+18,Austin,United States Grand Prix,Thijs,Perez,Red Bull,0,0,0,0,4,NA,NA,FALSE,TRUE
+18,Austin,United States Grand Prix,Saran,Verstappen,Red Bull,11,0,0,11,1,0,0,FALSE,FALSE
+18,Austin,United States Grand Prix,Saran,Ocon,Alpine,0,0,0,0,18,14,-14,FALSE,FALSE
+18,Austin,United States Grand Prix,Saran,Stroll,Aston Martin,9,0,0,9,7,1,-1,FALSE,FALSE
+18,Austin,United States Grand Prix,Saran,Norris,McLaren,9,9,0,18,2,1,1,TRUE,FALSE
+18,Austin,United States Grand Prix,Saran,Perez,Red Bull,0,0,0,0,4,NA,NA,FALSE,TRUE
+18,Austin,United States Grand Prix,Matthias,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+18,Austin,United States Grand Prix,Matthias,Ocon,Alpine,3,0,0,3,18,7,-7,FALSE,FALSE
+18,Austin,United States Grand Prix,Matthias,Stroll,Aston Martin,5,0,0,5,7,5,5,FALSE,FALSE
+18,Austin,United States Grand Prix,Matthias,Norris,McLaren,8,0,0,8,2,2,2,FALSE,FALSE
+18,Austin,United States Grand Prix,Matthias,Perez,Red Bull,0,0,0,0,4,NA,NA,FALSE,TRUE
+18,Austin,United States Grand Prix,Ines,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+18,Austin,United States Grand Prix,Ines,Ocon,Alpine,2,0,0,2,18,8,-8,FALSE,FALSE
+18,Austin,United States Grand Prix,Ines,Stroll,Aston Martin,5,0,0,5,7,5,5,FALSE,FALSE
+18,Austin,United States Grand Prix,Ines,Norris,McLaren,9,0,0,9,2,1,1,FALSE,FALSE
+18,Austin,United States Grand Prix,Ines,Perez,Red Bull,0,0,0,0,4,NA,NA,FALSE,TRUE
+18,Austin,United States Grand Prix,Filip,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+18,Austin,United States Grand Prix,Filip,Ocon,Alpine,1,0,0,1,18,9,-9,FALSE,FALSE
+18,Austin,United States Grand Prix,Filip,Stroll,Aston Martin,5,0,0,5,7,5,5,FALSE,FALSE
+18,Austin,United States Grand Prix,Filip,Norris,McLaren,9,0,0,9,2,1,1,FALSE,FALSE
+18,Austin,United States Grand Prix,Filip,Perez,Red Bull,0,0,0,0,4,NA,NA,FALSE,TRUE
+18,Austin,United States Grand Prix,Ester,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+18,Austin,United States Grand Prix,Ester,Ocon,Alpine,3,0,0,3,18,7,-7,FALSE,FALSE
+18,Austin,United States Grand Prix,Ester,Stroll,Aston Martin,5,0,0,5,7,5,5,FALSE,FALSE
+18,Austin,United States Grand Prix,Ester,Norris,McLaren,9,0,0,9,2,1,1,FALSE,FALSE
+18,Austin,United States Grand Prix,Ester,Perez,Red Bull,0,0,0,0,4,NA,NA,FALSE,TRUE
+18,Austin,United States Grand Prix,Thibaut,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+18,Austin,United States Grand Prix,Thibaut,Ocon,Alpine,2,0,0,2,18,8,-8,FALSE,FALSE
+18,Austin,United States Grand Prix,Thibaut,Stroll,Aston Martin,4,0,0,4,7,6,6,FALSE,FALSE
+18,Austin,United States Grand Prix,Thibaut,Norris,McLaren,8,0,0,8,2,2,2,FALSE,FALSE
+18,Austin,United States Grand Prix,Thibaut,Perez,Red Bull,0,0,0,0,4,NA,NA,FALSE,TRUE
+18,Austin,United States Grand Prix,Robbert,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+18,Austin,United States Grand Prix,Robbert,Ocon,Alpine,0,0,0,0,18,11,-11,FALSE,FALSE
+18,Austin,United States Grand Prix,Robbert,Stroll,Aston Martin,6,0,0,6,7,4,4,FALSE,FALSE
+18,Austin,United States Grand Prix,Robbert,Norris,McLaren,9,0,0,9,2,1,1,FALSE,FALSE
+18,Austin,United States Grand Prix,Robbert,Stroll,Aston Martin,0,0,7,7,7,NA,NA,FALSE,TRUE
+18,Austin,United States Grand Prix,Esmee,Verstappen,Red Bull,11,11,0,22,1,0,0,TRUE,FALSE
+18,Austin,United States Grand Prix,Esmee,Ocon,Alpine,1,0,0,1,18,9,-9,FALSE,FALSE
+18,Austin,United States Grand Prix,Esmee,Stroll,Aston Martin,4,0,0,4,7,6,6,FALSE,FALSE
+18,Austin,United States Grand Prix,Esmee,Norris,McLaren,11,0,0,11,2,0,0,FALSE,FALSE
+18,Austin,United States Grand Prix,Esmee,Perez,Red Bull,0,0,0,0,4,NA,NA,FALSE,TRUE
+19,Mexico City,Mexico City Grand Prix,Margot,Magnussen,Haas,1,0,0,1,19,9,-9,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Margot,Sargeant,Williams,7,0,0,7,16,3,-3,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Margot,Bottas,Alfa Romeo,7,0,0,7,15,3,-3,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Margot,Perez,Red Bull,0,0,0,0,20,14,-14,TRUE,FALSE
+19,Mexico City,Mexico City Grand Prix,Margot,Gasly,Alpine,0,0,0,0,11,NA,NA,FALSE,TRUE
+19,Mexico City,Mexico City Grand Prix,Illias,Magnussen,Haas,5,0,0,5,19,5,-5,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Illias,Sargeant,Williams,9,9,0,18,16,1,-1,TRUE,FALSE
+19,Mexico City,Mexico City Grand Prix,Illias,Bottas,Alfa Romeo,8,0,0,8,15,2,-2,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Illias,Perez,Red Bull,0,0,0,0,20,13,-13,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Illias,Zhou,Alfa Romeo,0,0,0,0,14,NA,NA,FALSE,TRUE
+19,Mexico City,Mexico City Grand Prix,Bart,Magnussen,Haas,7,0,0,7,19,3,-3,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Bart,Sargeant,Williams,7,0,0,7,16,3,3,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Bart,Bottas,Alfa Romeo,8,8,0,16,15,2,-2,TRUE,FALSE
+19,Mexico City,Mexico City Grand Prix,Bart,Perez,Red Bull,0,0,0,0,20,16,-16,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Bart,Alonso,Aston Martin,0,0,0,0,18,NA,NA,FALSE,TRUE
+19,Mexico City,Mexico City Grand Prix,Dylan,Magnussen,Haas,5,0,0,5,19,5,-5,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Dylan,Sargeant,Williams,9,0,0,9,16,1,1,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Dylan,Bottas,Alfa Romeo,11,0,0,11,15,0,0,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Dylan,Perez,Red Bull,0,0,0,0,20,13,-13,TRUE,FALSE
+19,Mexico City,Mexico City Grand Prix,Dylan,Verstappen,Red Bull,0,0,0,0,1,NA,NA,FALSE,TRUE
+19,Mexico City,Mexico City Grand Prix,Robbert,Magnussen,Haas,5,5,0,10,19,5,-5,TRUE,FALSE
+19,Mexico City,Mexico City Grand Prix,Robbert,Sargeant,Williams,4,0,0,4,16,6,-6,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Robbert,Bottas,Alfa Romeo,7,0,0,7,15,3,-3,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Robbert,Perez,Red Bull,0,0,0,0,20,15,-15,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Robbert,Hulkenberg,Haas,0,0,0,0,13,NA,NA,FALSE,TRUE
+19,Mexico City,Mexico City Grand Prix,Saran,Magnussen,Haas,0,0,0,0,19,14,-14,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Saran,Sargeant,Williams,0,0,0,0,16,12,-12,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Saran,Bottas,Alfa Romeo,0,0,0,0,15,11,-11,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Saran,Perez,Red Bull,0,0,0,0,20,18,-18,TRUE,FALSE
+19,Mexico City,Mexico City Grand Prix,Saran,Alonso,Aston Martin,0,0,0,0,18,NA,NA,FALSE,TRUE
+19,Mexico City,Mexico City Grand Prix,Jonas,Magnussen,Haas,4,0,0,4,19,6,-6,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Jonas,Sargeant,Williams,8,0,0,8,16,2,2,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Jonas,Bottas,Alfa Romeo,9,9,0,18,15,1,-1,TRUE,FALSE
+19,Mexico City,Mexico City Grand Prix,Jonas,Perez,Red Bull,0,0,0,0,20,17,-17,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Jonas,Ocon,Alpine,0,0,4,4,10,NA,NA,FALSE,TRUE
+19,Mexico City,Mexico City Grand Prix,Thijs,Magnussen,Haas,5,5,0,10,19,5,-5,TRUE,FALSE
+19,Mexico City,Mexico City Grand Prix,Thijs,Sargeant,Williams,9,0,0,9,16,1,1,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Thijs,Bottas,Alfa Romeo,6,0,0,6,15,4,-4,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Thijs,Perez,Red Bull,0,0,0,0,20,16,-16,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Thijs,Gasly,Alpine,0,0,0,0,11,NA,NA,FALSE,TRUE
+19,Mexico City,Mexico City Grand Prix,Thibaut,Magnussen,Haas,6,6,0,12,19,4,-4,TRUE,FALSE
+19,Mexico City,Mexico City Grand Prix,Thibaut,Sargeant,Williams,9,0,0,9,16,1,1,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Thibaut,Bottas,Alfa Romeo,8,0,0,8,15,2,-2,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Thibaut,Perez,Red Bull,0,0,0,0,20,14,-14,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Thibaut,Alonso,Aston Martin,0,0,0,0,18,NA,NA,FALSE,TRUE
+19,Mexico City,Mexico City Grand Prix,Filip,Magnussen,Haas,5,5,0,10,19,5,-5,TRUE,FALSE
+19,Mexico City,Mexico City Grand Prix,Filip,Sargeant,Williams,9,0,0,9,16,1,-1,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Filip,Bottas,Alfa Romeo,7,0,0,7,15,3,-3,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Filip,Perez,Red Bull,0,0,0,0,20,16,-16,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Filip,Tsunoda,AlphaTauri,0,0,6,6,12,NA,NA,FALSE,TRUE
+19,Mexico City,Mexico City Grand Prix,Mattijs,Magnussen,Haas,7,0,0,7,19,3,-3,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Mattijs,Sargeant,Williams,7,7,0,14,16,3,3,TRUE,FALSE
+19,Mexico City,Mexico City Grand Prix,Mattijs,Bottas,Alfa Romeo,5,0,0,5,15,5,-5,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Mattijs,Perez,Red Bull,0,0,0,0,20,15,-15,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Mattijs,Stroll,Aston Martin,0,0,0,0,17,NA,NA,FALSE,TRUE
+19,Mexico City,Mexico City Grand Prix,Matthias,Magnussen,Haas,7,0,0,7,19,3,-3,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Matthias,Sargeant,Williams,8,0,0,8,16,2,-2,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Matthias,Bottas,Alfa Romeo,6,0,0,6,15,4,-4,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Matthias,Perez,Red Bull,0,0,0,0,20,17,-17,TRUE,FALSE
+19,Mexico City,Mexico City Grand Prix,Matthias,Tsunoda,AlphaTauri,0,0,6,6,12,NA,NA,FALSE,TRUE
+19,Mexico City,Mexico City Grand Prix,Ines,Magnussen,Haas,6,0,0,6,19,4,-4,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Ines,Sargeant,Williams,11,0,0,11,16,0,0,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Ines,Bottas,Alfa Romeo,7,0,0,7,15,3,-3,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Ines,Perez,Red Bull,0,0,0,0,20,17,-17,TRUE,FALSE
+19,Mexico City,Mexico City Grand Prix,Ines,Tsunoda,AlphaTauri,0,0,6,6,12,NA,NA,FALSE,TRUE
+19,Mexico City,Mexico City Grand Prix,Eva,Magnussen,Haas,6,0,0,6,19,4,-4,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Eva,Sargeant,Williams,7,7,0,14,16,3,3,TRUE,FALSE
+19,Mexico City,Mexico City Grand Prix,Eva,Bottas,Alfa Romeo,4,0,0,4,15,6,-6,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Eva,Perez,Red Bull,0,0,0,0,20,15,-15,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Eva,Perez,Red Bull,0,0,0,0,20,NA,NA,FALSE,TRUE
+19,Mexico City,Mexico City Grand Prix,Esmee,Magnussen,Haas,7,0,0,7,19,3,-3,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Esmee,Sargeant,Williams,9,0,0,9,16,1,1,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Esmee,Bottas,Alfa Romeo,7,0,0,7,15,3,-3,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Esmee,Perez,Red Bull,0,0,0,0,20,17,-17,TRUE,FALSE
+19,Mexico City,Mexico City Grand Prix,Esmee,Stroll,Aston Martin,0,0,0,0,17,NA,NA,FALSE,TRUE
+19,Mexico City,Mexico City Grand Prix,Ester,Magnussen,Haas,6,6,0,12,19,4,-4,TRUE,FALSE
+19,Mexico City,Mexico City Grand Prix,Ester,Sargeant,Williams,8,0,0,8,16,2,-2,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Ester,Bottas,Alfa Romeo,6,0,0,6,15,4,-4,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Ester,Perez,Red Bull,0,0,0,0,20,16,-16,FALSE,FALSE
+19,Mexico City,Mexico City Grand Prix,Ester,Sainz,Ferrari,0,0,0,0,4,NA,NA,FALSE,TRUE
+20,São Paulo,São Paulo Grand Prix,Bram,Hulkenberg,Haas,5,0,0,5,12,5,5,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Bram,Piastri,McLaren,7,7,0,14,14,3,-3,TRUE,FALSE
+20,São Paulo,São Paulo Grand Prix,Bram,Tsunoda,AlphaTauri,7,0,0,7,9,3,3,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Bram,Zhou,Alfa Romeo,8,0,0,8,17,2,-2,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Bram,Ocon,Alpine,0,0,0,0,10,NA,NA,FALSE,TRUE
+20,São Paulo,São Paulo Grand Prix,Thibaut,Hulkenberg,Haas,7,0,0,7,12,3,3,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Thibaut,Piastri,McLaren,2,2,0,4,14,8,-8,TRUE,FALSE
+20,São Paulo,São Paulo Grand Prix,Thibaut,Tsunoda,AlphaTauri,9,0,0,9,9,1,1,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Thibaut,Zhou,Alfa Romeo,9,0,0,9,17,1,-1,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Thibaut,Tsunoda,AlphaTauri,0,0,5,5,9,NA,NA,FALSE,TRUE
+20,São Paulo,São Paulo Grand Prix,Saran,Hulkenberg,Haas,6,0,0,6,12,4,4,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Saran,Piastri,McLaren,3,3,0,6,14,7,-7,TRUE,FALSE
+20,São Paulo,São Paulo Grand Prix,Saran,Tsunoda,AlphaTauri,5,0,0,5,9,5,5,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Saran,Zhou,Alfa Romeo,9,0,0,9,17,1,-1,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Saran,Leclerc,Ferrari,0,0,0,0,20,NA,NA,FALSE,TRUE
+20,São Paulo,São Paulo Grand Prix,Bart,Hulkenberg,Haas,9,0,0,9,12,1,1,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Bart,Piastri,McLaren,1,1,0,2,14,9,-9,TRUE,FALSE
+20,São Paulo,São Paulo Grand Prix,Bart,Tsunoda,AlphaTauri,4,0,0,4,9,6,6,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Bart,Zhou,Alfa Romeo,9,0,0,9,17,1,-1,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Bart,Bottas,Alfa Romeo,0,0,0,0,16,NA,NA,FALSE,TRUE
+20,São Paulo,São Paulo Grand Prix,Illias,Hulkenberg,Haas,4,0,0,4,12,6,6,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Illias,Piastri,McLaren,5,0,0,5,14,5,-5,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Illias,Tsunoda,AlphaTauri,8,0,0,8,9,2,2,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Illias,Zhou,Alfa Romeo,9,9,0,18,17,1,-1,TRUE,FALSE
+20,São Paulo,São Paulo Grand Prix,Illias,Tsunoda,AlphaTauri,0,0,5,5,9,NA,NA,FALSE,TRUE
+20,São Paulo,São Paulo Grand Prix,Thijs,Hulkenberg,Haas,7,0,0,7,12,3,3,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Thijs,Piastri,McLaren,2,0,0,2,14,8,-8,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Thijs,Tsunoda,AlphaTauri,6,6,0,12,9,4,4,TRUE,FALSE
+20,São Paulo,São Paulo Grand Prix,Thijs,Zhou,Alfa Romeo,7,0,0,7,17,3,-3,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Thijs,Gasly,Alpine,0,0,7,7,7,NA,NA,FALSE,TRUE
+20,São Paulo,São Paulo Grand Prix,Dylan,Hulkenberg,Haas,6,6,0,12,12,4,4,TRUE,FALSE
+20,São Paulo,São Paulo Grand Prix,Dylan,Piastri,McLaren,0,0,0,0,14,10,-10,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Dylan,Tsunoda,AlphaTauri,7,0,0,7,9,3,3,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Dylan,Zhou,Alfa Romeo,8,0,0,8,17,2,-2,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Dylan,Gasly,Alpine,0,0,7,7,7,NA,NA,FALSE,TRUE
+20,São Paulo,São Paulo Grand Prix,Jonas,Hulkenberg,Haas,9,0,0,9,12,1,1,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Jonas,Piastri,McLaren,2,2,0,4,14,8,-8,TRUE,FALSE
+20,São Paulo,São Paulo Grand Prix,Jonas,Tsunoda,AlphaTauri,9,0,0,9,9,1,1,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Jonas,Zhou,Alfa Romeo,7,0,0,7,17,3,-3,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Jonas,Ricciardo,AlphaTauri,0,0,0,0,13,NA,NA,FALSE,TRUE
+20,São Paulo,São Paulo Grand Prix,Margot,Hulkenberg,Haas,5,0,0,5,12,5,5,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Margot,Piastri,McLaren,4,4,0,8,14,6,-6,TRUE,FALSE
+20,São Paulo,São Paulo Grand Prix,Margot,Tsunoda,AlphaTauri,9,0,0,9,9,1,1,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Margot,Zhou,Alfa Romeo,8,0,0,8,17,2,-2,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Margot,Stroll,Aston Martin,0,0,0,0,5,NA,NA,FALSE,TRUE
+20,São Paulo,São Paulo Grand Prix,Robbert,Hulkenberg,Haas,8,0,0,8,12,2,2,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Robbert,Piastri,McLaren,1,1,0,2,14,9,-9,TRUE,FALSE
+20,São Paulo,São Paulo Grand Prix,Robbert,Tsunoda,AlphaTauri,7,0,0,7,9,3,3,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Robbert,Zhou,Alfa Romeo,6,0,0,6,17,4,-4,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Robbert,Gasly,Alpine,0,0,7,7,7,NA,NA,FALSE,TRUE
+20,São Paulo,São Paulo Grand Prix,Eva,Hulkenberg,Haas,9,9,0,18,12,1,-1,TRUE,FALSE
+20,São Paulo,São Paulo Grand Prix,Eva,Piastri,McLaren,4,0,0,4,14,6,-6,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Eva,Tsunoda,AlphaTauri,5,0,0,5,9,5,5,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Eva,Zhou,Alfa Romeo,8,0,0,8,17,2,-2,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Eva,Ocon,Alpine,0,0,0,0,10,NA,NA,FALSE,TRUE
+20,São Paulo,São Paulo Grand Prix,Mattijs,Hulkenberg,Haas,8,0,0,8,12,2,2,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Mattijs,Piastri,McLaren,1,0,0,1,14,9,-9,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Mattijs,Tsunoda,AlphaTauri,11,11,0,22,9,0,0,TRUE,FALSE
+20,São Paulo,São Paulo Grand Prix,Mattijs,Zhou,Alfa Romeo,6,0,0,6,17,4,-4,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Mattijs,Perez,Red Bull,0,0,4,4,4,NA,NA,FALSE,TRUE
+20,São Paulo,São Paulo Grand Prix,Filip,Hulkenberg,Haas,8,8,0,16,12,2,2,TRUE,FALSE
+20,São Paulo,São Paulo Grand Prix,Filip,Piastri,McLaren,2,0,0,2,14,8,-8,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Filip,Tsunoda,AlphaTauri,7,0,0,7,9,3,3,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Filip,Zhou,Alfa Romeo,6,0,0,6,17,4,-4,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Filip,Zhou,Alfa Romeo,0,0,0,0,17,NA,NA,FALSE,TRUE
+20,São Paulo,São Paulo Grand Prix,Matthias,Hulkenberg,Haas,6,6,0,12,12,4,4,TRUE,FALSE
+20,São Paulo,São Paulo Grand Prix,Matthias,Piastri,McLaren,2,0,0,2,14,8,-8,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Matthias,Tsunoda,AlphaTauri,6,0,0,6,9,4,4,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Matthias,Zhou,Alfa Romeo,7,0,0,7,17,3,-3,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Matthias,Perez,Red Bull,0,0,4,4,4,NA,NA,FALSE,TRUE
+20,São Paulo,São Paulo Grand Prix,Ines,Hulkenberg,Haas,8,0,0,8,12,2,2,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Ines,Piastri,McLaren,1,0,0,1,14,9,-9,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Ines,Tsunoda,AlphaTauri,5,0,0,5,9,5,5,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Ines,Zhou,Alfa Romeo,6,6,0,12,17,4,-4,TRUE,FALSE
+20,São Paulo,São Paulo Grand Prix,Ines,Perez,Red Bull,0,0,4,4,4,NA,NA,FALSE,TRUE
+20,São Paulo,São Paulo Grand Prix,Ester,Hulkenberg,Haas,5,5,0,10,12,5,5,TRUE,FALSE
+20,São Paulo,São Paulo Grand Prix,Ester,Piastri,McLaren,3,0,0,3,14,7,-7,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Ester,Tsunoda,AlphaTauri,6,0,0,6,9,4,4,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Ester,Zhou,Alfa Romeo,8,0,0,8,17,2,-2,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Ester,Albon,Williams,0,0,0,0,19,NA,NA,FALSE,TRUE
+20,São Paulo,São Paulo Grand Prix,Esmee,Hulkenberg,Haas,6,6,0,12,12,4,4,TRUE,FALSE
+20,São Paulo,São Paulo Grand Prix,Esmee,Piastri,McLaren,4,0,0,4,14,6,-6,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Esmee,Tsunoda,AlphaTauri,7,0,0,7,9,3,3,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Esmee,Zhou,Alfa Romeo,8,0,0,8,17,2,-2,FALSE,FALSE
+20,São Paulo,São Paulo Grand Prix,Esmee,Perez,Red Bull,0,0,4,4,4,NA,NA,FALSE,TRUE
+21,Las Vegas,Las Vegas Grand Prix,Margot,Tsunoda,AlphaTauri,2,0,0,2,18,8,-8,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Margot,Sargeant,Williams,11,0,0,11,16,0,0,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Margot,Zhou,Alfa Romeo,9,0,0,9,15,1,-1,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Margot,Leclerc,Ferrari,7,7,0,14,2,3,3,TRUE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Margot,Perez,Red Bull,0,0,5,5,3,NA,NA,FALSE,TRUE
+21,Las Vegas,Las Vegas Grand Prix,Illias,Tsunoda,AlphaTauri,2,0,0,2,18,8,-8,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Illias,Sargeant,Williams,9,9,0,18,16,1,1,TRUE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Illias,Zhou,Alfa Romeo,9,0,0,9,15,1,1,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Illias,Leclerc,Ferrari,8,0,0,8,2,2,2,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Illias,Albon,Williams,0,0,0,0,12,NA,NA,FALSE,TRUE
+21,Las Vegas,Las Vegas Grand Prix,Saran,Tsunoda,AlphaTauri,0,0,0,0,18,11,-11,TRUE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Saran,Sargeant,Williams,5,0,0,5,16,5,-5,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Saran,Zhou,Alfa Romeo,7,0,0,7,15,3,3,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Saran,Leclerc,Ferrari,0,0,0,0,2,11,11,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Saran,Leclerc,Ferrari,0,0,0,0,2,NA,NA,FALSE,TRUE
+21,Las Vegas,Las Vegas Grand Prix,Bram,Tsunoda,AlphaTauri,4,0,0,4,18,6,-6,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Bram,Sargeant,Williams,9,9,0,18,16,1,1,TRUE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Bram,Zhou,Alfa Romeo,7,0,0,7,15,3,3,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Bram,Leclerc,Ferrari,5,0,0,5,2,5,5,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Bram,Ocon,Alpine,0,0,6,6,4,NA,NA,FALSE,TRUE
+21,Las Vegas,Las Vegas Grand Prix,Bart,Tsunoda,AlphaTauri,6,0,0,6,18,4,-4,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Bart,Sargeant,Williams,8,0,0,8,16,2,2,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Bart,Zhou,Alfa Romeo,9,0,0,9,15,1,1,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Bart,Leclerc,Ferrari,11,11,0,22,2,0,0,TRUE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Bart,Sainz,Ferrari,0,0,3,3,6,NA,NA,FALSE,TRUE
+21,Las Vegas,Las Vegas Grand Prix,Eva,Tsunoda,AlphaTauri,4,0,0,4,18,6,-6,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Eva,Sargeant,Williams,7,7,0,14,16,3,3,TRUE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Eva,Zhou,Alfa Romeo,8,0,0,8,15,2,-2,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Eva,Leclerc,Ferrari,7,0,0,7,2,3,3,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Eva,Ocon,Alpine,0,0,6,6,4,NA,NA,FALSE,TRUE
+21,Las Vegas,Las Vegas Grand Prix,Dylan,Tsunoda,AlphaTauri,3,0,0,3,18,7,-7,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Dylan,Sargeant,Williams,9,9,0,18,16,1,1,TRUE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Dylan,Zhou,Alfa Romeo,9,0,0,9,15,1,-1,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Dylan,Leclerc,Ferrari,7,0,0,7,2,3,3,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Dylan,Gasly,Alpine,0,0,0,0,11,NA,NA,FALSE,TRUE
+21,Las Vegas,Las Vegas Grand Prix,Matthias,Tsunoda,AlphaTauri,2,0,0,2,18,8,-8,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Matthias,Sargeant,Williams,11,11,0,22,16,0,0,TRUE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Matthias,Zhou,Alfa Romeo,8,0,0,8,15,2,-2,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Matthias,Leclerc,Ferrari,7,0,0,7,2,3,3,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Matthias,Sainz,Ferrari,0,0,3,3,6,NA,NA,FALSE,TRUE
+21,Las Vegas,Las Vegas Grand Prix,Ines,Tsunoda,AlphaTauri,4,0,0,4,18,6,-6,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Ines,Sargeant,Williams,9,0,0,9,16,1,1,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Ines,Zhou,Alfa Romeo,9,9,0,18,15,1,1,TRUE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Ines,Leclerc,Ferrari,8,0,0,8,2,2,2,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Ines,Sainz,Ferrari,0,0,3,3,6,NA,NA,FALSE,TRUE
+21,Las Vegas,Las Vegas Grand Prix,Jonas,Tsunoda,AlphaTauri,5,0,0,5,18,5,-5,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Jonas,Sargeant,Williams,8,8,0,16,16,2,2,TRUE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Jonas,Zhou,Alfa Romeo,9,0,0,9,15,1,1,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Jonas,Leclerc,Ferrari,9,0,0,9,2,1,1,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Jonas,Bottas,Alfa Romeo,0,0,0,0,17,NA,NA,FALSE,TRUE
+21,Las Vegas,Las Vegas Grand Prix,Mattijs,Tsunoda,AlphaTauri,0,0,0,0,18,10,-10,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Mattijs,Sargeant,Williams,9,9,0,18,16,1,1,TRUE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Mattijs,Zhou,Alfa Romeo,8,0,0,8,15,2,-2,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Mattijs,Leclerc,Ferrari,6,0,0,6,2,4,4,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Mattijs,Albon,Williams,0,0,0,0,12,NA,NA,FALSE,TRUE
+21,Las Vegas,Las Vegas Grand Prix,Thibaut,Tsunoda,AlphaTauri,3,0,0,3,18,7,-7,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Thibaut,Sargeant,Williams,9,0,0,9,16,1,1,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Thibaut,Zhou,Alfa Romeo,8,8,0,16,15,2,-2,TRUE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Thibaut,Leclerc,Ferrari,9,0,0,9,2,1,1,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Thibaut,Perez,Red Bull,0,0,5,5,3,NA,NA,FALSE,TRUE
+21,Las Vegas,Las Vegas Grand Prix,Filip,Tsunoda,AlphaTauri,2,2,0,4,18,8,-8,TRUE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Filip,Sargeant,Williams,9,0,0,9,16,1,1,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Filip,Zhou,Alfa Romeo,9,0,0,9,15,1,-1,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Filip,Leclerc,Ferrari,9,0,0,9,2,1,1,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Filip,Sainz,Ferrari,0,0,3,3,6,NA,NA,FALSE,TRUE
+21,Las Vegas,Las Vegas Grand Prix,Thijs,Tsunoda,AlphaTauri,1,0,0,1,18,9,-9,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Thijs,Sargeant,Williams,11,0,0,11,16,0,0,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Thijs,Zhou,Alfa Romeo,8,8,0,16,15,2,-2,TRUE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Thijs,Leclerc,Ferrari,8,0,0,8,2,2,2,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Thijs,Gasly,Alpine,0,0,0,0,11,NA,NA,FALSE,TRUE
+21,Las Vegas,Las Vegas Grand Prix,Ester,Tsunoda,AlphaTauri,5,0,0,5,18,5,-5,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Ester,Sargeant,Williams,6,6,0,12,16,4,4,TRUE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Ester,Zhou,Alfa Romeo,9,0,0,9,15,1,1,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Ester,Leclerc,Ferrari,7,0,0,7,2,3,3,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Ester,Sainz,Ferrari,0,0,3,3,6,NA,NA,FALSE,TRUE
+21,Las Vegas,Las Vegas Grand Prix,Esmee,Tsunoda,AlphaTauri,3,0,0,3,18,7,-7,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Esmee,Sargeant,Williams,11,0,0,11,16,0,0,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Esmee,Zhou,Alfa Romeo,11,0,0,11,15,0,0,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Esmee,Leclerc,Ferrari,8,8,0,16,2,2,2,TRUE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Esmee,Tsunoda,AlphaTauri,0,0,0,0,18,NA,NA,FALSE,TRUE
+21,Las Vegas,Las Vegas Grand Prix,Robbert,Tsunoda,AlphaTauri,0,0,0,0,18,10,-10,TRUE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Robbert,Sargeant,Williams,4,0,0,4,16,6,-6,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Robbert,Zhou,Alfa Romeo,8,0,0,8,15,2,-2,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Robbert,Leclerc,Ferrari,9,0,0,9,2,1,1,FALSE,FALSE
+21,Las Vegas,Las Vegas Grand Prix,Robbert,Hamilton,Mercedes,0,0,0,0,7,NA,NA,FALSE,TRUE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Bram,Piastri,McLaren,5,0,0,5,6,5,5,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Bram,Magnussen,Haas,4,0,0,4,20,6,-6,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Bram,Bottas,Alfa Romeo,0,0,0,0,19,10,-10,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Bram,Perez,Red Bull,8,8,0,16,4,2,-2,TRUE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Bram,Ricciardo,AlphaTauri,0,0,6,6,11,NA,NA,FALSE,TRUE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Bart,Piastri,McLaren,9,0,0,9,6,1,1,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Bart,Magnussen,Haas,6,0,0,6,20,4,-4,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Bart,Bottas,Alfa Romeo,1,1,0,2,19,9,-9,TRUE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Bart,Perez,Red Bull,11,0,0,11,4,0,0,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Bart,Russell,Mercedes,0,0,0,0,3,NA,NA,FALSE,TRUE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Thijs,Piastri,McLaren,9,9,0,18,6,1,1,TRUE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Thijs,Magnussen,Haas,4,0,0,4,20,6,-6,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Thijs,Bottas,Alfa Romeo,3,0,0,3,19,7,-7,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Thijs,Perez,Red Bull,9,0,0,9,4,1,-1,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Thijs,Gasly,Alpine,0,0,0,0,13,NA,NA,FALSE,TRUE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Dylan,Piastri,McLaren,9,0,0,9,6,1,-1,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Dylan,Magnussen,Haas,5,5,0,10,20,5,-5,TRUE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Dylan,Bottas,Alfa Romeo,4,0,0,4,19,6,-6,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Dylan,Perez,Red Bull,7,0,0,7,4,3,3,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Dylan,Gasly,Alpine,0,0,0,0,13,NA,NA,FALSE,TRUE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Jonas,Piastri,McLaren,11,11,0,22,6,0,0,TRUE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Jonas,Magnussen,Haas,4,0,0,4,20,6,-6,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Jonas,Bottas,Alfa Romeo,0,0,0,0,19,10,-10,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Jonas,Perez,Red Bull,11,0,0,11,4,0,0,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Jonas,Albon,Williams,0,0,0,0,14,NA,NA,FALSE,TRUE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Eva,Piastri,McLaren,8,0,0,8,6,2,2,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Eva,Magnussen,Haas,0,0,0,0,20,11,-11,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Eva,Bottas,Alfa Romeo,0,0,0,0,19,12,-12,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Eva,Perez,Red Bull,8,8,0,16,4,2,-2,TRUE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Eva,Ocon,Alpine,0,0,0,0,12,NA,NA,FALSE,TRUE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Mattijs,Piastri,McLaren,9,9,0,18,6,1,-1,TRUE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Mattijs,Magnussen,Haas,1,0,0,1,20,9,-9,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Mattijs,Bottas,Alfa Romeo,3,0,0,3,19,7,-7,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Mattijs,Perez,Red Bull,9,0,0,9,4,1,-1,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Mattijs,Perez,Red Bull,0,0,7,7,4,NA,NA,FALSE,TRUE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Saran,Piastri,McLaren,8,8,0,16,6,2,-2,TRUE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Saran,Magnussen,Haas,0,0,0,0,20,14,-14,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Saran,Bottas,Alfa Romeo,0,0,0,0,19,13,-13,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Saran,Perez,Red Bull,11,0,0,11,4,0,0,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Saran,Norris,McLaren,0,0,0,0,5,NA,NA,FALSE,TRUE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Esmee,Piastri,McLaren,8,0,0,8,6,2,2,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Esmee,Magnussen,Haas,7,0,0,7,20,3,-3,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Esmee,Bottas,Alfa Romeo,6,0,0,6,19,4,-4,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Esmee,Perez,Red Bull,11,11,0,22,4,0,0,TRUE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Esmee,Perez,Red Bull,0,0,7,7,4,NA,NA,TRUE,TRUE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Illias,Piastri,McLaren,4,0,0,4,6,6,6,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Illias,Magnussen,Haas,4,0,0,4,20,6,-6,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Illias,Bottas,Alfa Romeo,4,4,0,8,19,6,-6,TRUE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Illias,Perez,Red Bull,8,0,0,8,4,2,2,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Illias,Ocon,Alpine,0,0,0,0,12,NA,NA,FALSE,TRUE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Thibaut,Piastri,McLaren,9,9,0,18,6,1,1,TRUE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Thibaut,Magnussen,Haas,6,0,0,6,20,4,-4,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Thibaut,Bottas,Alfa Romeo,8,0,0,8,19,2,-2,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Thibaut,Perez,Red Bull,9,0,0,9,4,1,-1,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Thibaut,Ocon,Alpine,0,0,0,0,12,NA,NA,FALSE,TRUE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Filip,Piastri,McLaren,9,0,0,9,6,1,1,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Filip,Magnussen,Haas,5,0,0,5,20,5,-5,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Filip,Bottas,Alfa Romeo,5,0,0,5,19,5,-5,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Filip,Perez,Red Bull,11,11,0,22,4,0,0,TRUE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Filip,Perez,Red Bull,0,0,7,7,4,NA,NA,TRUE,TRUE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Margot,Piastri,McLaren,5,0,0,5,6,5,5,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Margot,Magnussen,Haas,3,0,0,3,20,7,-7,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Margot,Bottas,Alfa Romeo,3,0,0,3,19,7,-7,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Margot,Perez,Red Bull,8,8,0,16,4,2,2,TRUE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Margot,Perez,Red Bull,0,0,7,7,4,NA,NA,TRUE,TRUE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Robbert,Piastri,McLaren,7,0,0,7,6,3,3,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Robbert,Magnussen,Haas,3,3,0,6,20,7,-7,TRUE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Robbert,Bottas,Alfa Romeo,7,0,0,7,19,3,-3,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Robbert,Perez,Red Bull,9,0,0,9,4,1,-1,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Robbert,Tsunoda,AlphaTauri,0,0,0,0,8,NA,NA,FALSE,TRUE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Ester,Piastri,McLaren,6,0,0,6,6,4,4,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Ester,Magnussen,Haas,4,0,0,4,20,6,-6,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Ester,Bottas,Alfa Romeo,7,0,0,7,19,3,-3,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Ester,Perez,Red Bull,9,9,0,18,4,1,-1,TRUE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Ester,Sainz,Ferrari,0,0,0,0,18,NA,NA,FALSE,TRUE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Matthias,Piastri,McLaren,8,0,0,8,6,2,2,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Matthias,Magnussen,Haas,6,6,0,12,20,4,-4,TRUE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Matthias,Bottas,Alfa Romeo,6,0,0,6,19,4,-4,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Matthias,Perez,Red Bull,11,0,0,11,4,0,0,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Matthias,Perez,Red Bull,0,0,7,7,4,NA,NA,FALSE,TRUE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Ines,Piastri,McLaren,8,0,0,8,6,2,2,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Ines,Magnussen,Haas,5,5,0,10,20,5,-5,TRUE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Ines,Bottas,Alfa Romeo,5,0,0,5,19,5,-5,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Ines,Perez,Red Bull,11,0,0,11,4,0,0,FALSE,FALSE
+22,Abu Dhabi,Abu Dhabi Grand Prix,Ines,Perez,Red Bull,0,0,7,7,4,NA,NA,FALSE,TRUE
